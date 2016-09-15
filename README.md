@@ -1,7 +1,12 @@
 # HSE_deeplearning
 Fork of Lempitsky DL for HSE master students
-
 Lecture and seminar materials for each week is in ./week* folders
+
+# Announcements
+* 15.09 - Doodle on when do we meet - [link](http://doodle.com/poll/cygymdnkf7q5vqmm)
+* 15.09 - Please get the frameworks installed by the next class - [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
+* 15.09 - added project rules and examples (see "course stuff" below)
+* 15.09 - week0 assignment published (see "syllabus")
 
 
 # Coordinates
@@ -10,11 +15,12 @@ Lecture and seminar materials for each week is in ./week* folders
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues)
 
 
-# Lecture syllabus
+# Syllabus
 - __week0__ Recap
   - [ ] Lecture: Linear models, stochastic optimization, regularization
   - [ ] Seminar: Linear classification, sgd, modifications
      - [ ] HW due: 21.09.16, 23.59.
+     - Please get the frameworks installed by the next class  - [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
 - Please get bleeding edge theano+lasagne installed for the next seminar. 
  - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
 - __week1__ Getting deeper
