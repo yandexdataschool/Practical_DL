@@ -3,7 +3,7 @@ Fork of Lempitsky DL for HSE master students
 Lecture and seminar materials for each week is in ./week* folders
 
 # Announcements
-* 20.09 - by default we meet on __Friday at 18-00, room 400__. _if you cannot make it, please send us and e-mail (course mail) or PM me in slack ASAP - we have a second parallel available and a few other options_.
+* 20.09 - by default we meet on __Friday at 18-00, room 400__. _if you cannot make it, please send us an e-mail (course mail) or PM me in slack ASAP - we have a second parallel available and a few other options_.
 * 20.09 - HW0 deadline was shifted 1 wek into the future. Rejoice!
 * 20.09 - grading info added
 * 15.09 - Doodle on when do we meet - [link](http://doodle.com/poll/cygymdnkf7q5vqmm)
