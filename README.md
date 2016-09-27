@@ -27,7 +27,7 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Linear models, stochastic optimization, regularization
   - [ ] Seminar: Linear classification, sgd, modifications
      - [ ] HW due: 28.09.16, 23.59.
-  - Please get bleeding edge theano+lasagne installed for the next seminar. 
+  - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
 - __week1__ Getting deeper
