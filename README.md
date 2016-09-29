@@ -10,6 +10,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 30.09 - published [scoreboard](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
 * 23.09 - added week1 materials and homework
 * 20.09 - by default we meet on __Friday at 18-00, room 400__. _if you cannot make it, please send us an e-mail (course mail) or PM me in slack ASAP - we have a second parallel available and a few other options_.
 * 20.09 - HW0 deadline was shifted 1 wek into the future. Rejoice!
@@ -18,8 +19,6 @@ Lecture and seminar materials for each week is in ./week* folders
 * 15.09 - Please get the frameworks installed by the next class - [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
 * 15.09 - added project rules and examples (see "course stuff" below)
 * 15.09 - week0 assignment published (see "syllabus")
-
-
 
 
 # Syllabus
@@ -43,3 +42,4 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Project rules](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Course-projects)
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
 * [Grading system](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Grading)
+* [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
