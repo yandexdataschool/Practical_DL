@@ -10,6 +10,8 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 30.09 - Please do not forget to add deterministic=True for your neural network when computing accuracy (not when training)
+* 30.09 - added week2 lecture and homework.
 * 30.09 - published [scoreboard](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
 * 23.09 - added week1 materials and homework
 * 20.09 - by default we meet on __Friday at 18-00, room 400__. _if you cannot make it, please send us an e-mail (course mail) or PM me in slack ASAP - we have a second parallel available and a few other options_.
@@ -36,6 +38,7 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week2__ Deep learning for computer vision 101
   - [ ] Lecture: Convolutional neural networks
   - [ ] Seminar: lasagne and CIFAR
+    - [ ] HW due: 9.10.16 23.59 on first submission.
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
