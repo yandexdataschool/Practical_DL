@@ -2,6 +2,8 @@
 
 import numpy as np
 from sklearn.cross_validation import train_test_split
+import urllib2
+import urllib
 def unpickle(file):
     import cPickle
     fo = open(file, 'rb')
@@ -17,8 +19,10 @@ def download_cifar10(path,
     import tarfile
     if not os.path.exists(path):
         os.mkdir(path)
+    
         
-    os.system("wget %s -O %s"%(url,os.path.join(path,tarname)))
+
+    urllib.urlretrieve(url, os.path.join(path,tarname))
     tfile = tarfile.open(os.path.join(path,tarname))
     tfile.extractall(path=path)
     
