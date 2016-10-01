@@ -45,4 +45,4 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Project rules](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Course-projects)
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
 * [Grading system](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Grading)
-* [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
+* [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
