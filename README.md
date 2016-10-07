@@ -10,7 +10,8 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
-* 7.10 - Week3 lecture notes and homework uploaded
+* 7.10 - We've now got [da feedback form](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit) - it's fully anonymous and you can send there whatever you won't send us via slack/mail.
+* 7.10 - Week3 lecture notes and homework uploaded.
 * 30.09 - Week2 homework (lasagne/cifar): Please do not forget to add deterministic=True for your neural network when computing accuracy (not when training)
 * 30.09 - added week2 lecture and homework.
 * 30.09 - published [scoreboard](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
@@ -40,6 +41,12 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Convolutional neural networks
   - [ ] Seminar: lasagne and CIFAR
     - [ ] HW due: 9.10.16 23.59 on first submission.
+- __week3__ Deep learning for natural language processing 101
+  - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
+  - [ ] Seminar: Text convolutions for Avito content filtering task
+    - [ ] HW due: 16.10.16 23.59 on first submission.
+- __week3__ Recurrent neural networks for texts
+
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
@@ -47,3 +54,4 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
 * [Grading system](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Grading)
 * [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
+* [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
