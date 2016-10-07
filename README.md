@@ -10,6 +10,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 7.10 - Week3 lecture notes and homework uploaded
 * 30.09 - Week2 homework (lasagne/cifar): Please do not forget to add deterministic=True for your neural network when computing accuracy (not when training)
 * 30.09 - added week2 lecture and homework.
 * 30.09 - published [scoreboard](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
