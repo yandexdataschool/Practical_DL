@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 import numpy as np
 
 def APatK ( y_true,y_predicted, K =32500):
@@ -30,42 +31,42 @@ import socket
 
 def score(final_accuracy,final_auc,final_apatk):
     
-    print "\nAUC:"
+    print ("\nAUC:")
     if final_auc >= 0.99:
-        print "\tПиши статью. (great)"
+        print ("\tПиши статью. (great)")
     elif final_auc >= 0.97:
-        print "\tОтличное решение! (good)"
+        print ("\tОтличное решение! (good)")
     elif final_auc >= 0.95:
-        print "\tСойдёт, хотя можно ещё поднажать (ok)"
+        print ("\tСойдёт, хотя можно ещё поднажать (ok)")
     elif final_auc >= 0.9:
-        print "\tНеплохо, но ты можешь лучше! (not ok)"
+        print ("\tНеплохо, но ты можешь лучше! (not ok)")
     elif final_auc > 0.8:
-        print "\tТы на правильном пути! (not ok)"
+        print ("\tТы на правильном пути! (not ok)")
     elif final_auc > 0.65:
-        print "\tДобавь жару! (not ok)"
+        print ("\tДобавь жару! (not ok)")
     else:
-        print "\tМожет быть, она недоучилась? Ну или слишком маленькая? Или в детстве болела? (not ok)"
+        print ("\tМожет быть, она недоучилась? Ну или слишком маленькая? Или в детстве болела? (not ok)")
     
         
-    print "\nAccuracy:"
+    print ("\nAccuracy:")
     if final_accuracy >= 0.97:
-        print "\tОчешуенно! (great)"
+        print ("\tОчешуенно! (great)")
     elif final_accuracy >= 0.95:
-        print "\tОтличный результат! (good)"
+        print ("\tОтличный результат! (good)")
     elif final_accuracy >= 0.9:
-        print "\tВсё ок (ok)"
+        print ("\tВсё ок (ok)")
     else:
-        print "Надо бы подтянуть. (not ok)"
+        print ("Надо бы подтянуть. (not ok)")
 
-    print "\nAverage precision at K:"
+    print ("\nAverage precision at K:")
     if final_apatk > 0.99:
-        print "\tЗасабмить на kaggle! (great) \n\t Нет, ну честно - выкачай avito_test.tsv, засабмить и скажи, что вышло."
+        print ("\tЗасабмить на kaggle! (great) \n\t Нет, ну честно - выкачай avito_test.tsv, засабмить и скажи, что вышло.")
     elif final_apatk > 0.95:
-        print "\tОтличный результат (good)"
+        print ("\tОтличный результат (good)")
     elif final_apatk > 0.92:
-        print "\tВы побили baseline (ok)"
+        print ("\tВы побили baseline (ok)")
     else:
-        print "\tНадо бы поднажать (not ok)"
+        print ("\tНадо бы поднажать (not ok)")
         
     if socket.gethostname().startswith("cv-gpu" ):
         if final_apatk>0.92 and final_accuracy >0.9 and final_auc > 0.95 :
