@@ -10,6 +10,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 7.10 - If you are considering project ideas, please contact us (slack >= mail) asap to know you exist. You don't have to know actual project topic - just tell us that you're there and you may be up to something.
 * 7.10 - We've now got [da feedback form](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit) - it's fully anonymous and you can send there whatever you won't send us via slack/mail.
 * 7.10 - Week3 lecture notes and homework uploaded.
 * 30.09 - Week2 homework (lasagne/cifar): Please do not forget to add deterministic=True for your neural network when computing accuracy (not when training)
@@ -45,7 +46,9 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
   - [ ] Seminar: Text convolutions for Avito content filtering task
     - [ ] HW due: 16.10.16 23.59 on first submission.
-- __week3__ Recurrent neural networks for texts
+- __week3__ Recurrent neural networks for sequences
+  - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
+  - [ ] Seminar: Generating laws for pitiful humans with mighty RNNs.
 
 
 # Stuff
