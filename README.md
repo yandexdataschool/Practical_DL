@@ -46,7 +46,7 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
   - [ ] Seminar: Text convolutions for Avito content filtering task
     - [ ] HW due: 16.10.16 23.59 on first submission.
-- __week3__ Recurrent neural networks for sequences
+- __week4__ Recurrent neural networks for sequences
   - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
   - [ ] Seminar: Generating laws for pitiful humans with mighty RNNs.
 
