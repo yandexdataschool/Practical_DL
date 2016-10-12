@@ -10,6 +10,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 12.10 - for those rare specimen who read official curriculum - we'll have have to reorder the curriculum. Advanced vision goes 2 weeks forward, advanced text gets 2 weeks sooner. The rest stays as planned.
 * 7.10 - If you are considering project ideas, please contact us (slack >= mail) asap to know you exist. You don't have to know actual project topic - just tell us that you're there and you may be up to something.
 * 7.10 - We've now got [da feedback form](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit) - it's fully anonymous and you can send there whatever you won't send us via slack/mail.
 * 7.10 - Week3 lecture notes and homework uploaded.
