@@ -10,6 +10,9 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 17.10 - week4 partially completed seminar uploaded
+* 17.10 - a way for students to reduce lateness penalty on their homework assignments [announced](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
+* 14.10 - week4 lecture, seminar and homework uploaded
 * 12.10 - If you sent us anything before 6-00 AM (Moscow) 12.10.16 and still got no reply / no score [here](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing) - contact us (slack, issue on github, anything) - there may be a problem with e-mail delivery.
 * 12.10 - for those rare specimen who read official curriculum - we'll have have to reorder the curriculum. Advanced vision goes 2 weeks forward, advanced text gets 2 weeks sooner. The rest stays as planned.
 * 7.10 - If you are considering project ideas, please contact us (slack >= mail) asap to know you exist. You don't have to know actual project topic - just tell us that you're there and you may be up to something.
@@ -51,7 +54,10 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week4__ Recurrent neural networks for sequences
   - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
   - [ ] Seminar: Generating laws for pitiful humans with mighty RNNs.
-
+    - [ ] HW due: 28.10.16 23.59 on first submission.
+- __week5__ Recurrent neural networks II
+  - [ ] Lecture: Batchnorm and dropout for RNN; Seq2seq: machine translation, conversation models, speech recognition and more. Attention. Long term memory architectures.
+  - [ ] Seminar: a toy machine translation task
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
@@ -59,4 +65,5 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
 * [Grading system](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Grading)
 * [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
+* [Reducing lateness penalty](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
 * [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
