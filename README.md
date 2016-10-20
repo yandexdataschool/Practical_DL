@@ -1,4 +1,5 @@
 # HSE_deeplearning
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning)
 Fork of Lempitsky DL for HSE master students
 Lecture and seminar materials for each week is in ./week* folders
 
@@ -10,6 +11,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 20.10 - we now have a [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning) for you if you got to the seminar without a notebook (with a phone) or have some temporary technical issues. Binder only lasts 1 hour so please do not use it for homeworks.
 * 20.10 - current status of course staff is "Адъ и израиль", so the new wave of homeworks will be checked with a short delay (hope to finish by the weekend. The lectures will proceed as planned.
 * 17.10 - week4 partially completed seminar uploaded
 * 17.10 - a way for students to reduce lateness penalty on their homework assignments [announced](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
@@ -68,3 +70,4 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
 * [Reducing lateness penalty](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
 * [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
+* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning)
