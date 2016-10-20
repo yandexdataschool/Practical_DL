@@ -10,6 +10,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 20.10 - current status of course staff is "Адъ и израиль", so the new wave of homeworks will be checked with a short delay (hope to finish by the weekend. The lectures will proceed as planned.
 * 17.10 - week4 partially completed seminar uploaded
 * 17.10 - a way for students to reduce lateness penalty on their homework assignments [announced](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
 * 14.10 - week4 lecture, seminar and homework uploaded
