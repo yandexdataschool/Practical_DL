@@ -11,6 +11,8 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 21.10 - There will be no classes on the 28.10;
+* 21.10 - week5 notebook is NOT homework assignment notebook. Homework and deadlines TBA
 * 20.10 - we now have a [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning) for you if you got to the seminar without a notebook (with a phone) or have some temporary technical issues. Binder only lasts 1 hour so please do not use it for homeworks.
 * 20.10 - current status of course staff is "Адъ и израиль", so the new wave of homeworks will be checked with a short delay (hope to finish by the weekend. The lectures will proceed as planned.
 * 17.10 - week4 partially completed seminar uploaded
@@ -61,6 +63,7 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week5__ Recurrent neural networks II
   - [ ] Lecture: Batchnorm and dropout for RNN; Seq2seq: machine translation, conversation models, speech recognition and more. Attention. Long term memory architectures.
   - [ ] Seminar: a toy machine translation task
+    - to be anounced
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
