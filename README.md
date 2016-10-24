@@ -11,6 +11,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 24.10 - Checked up homeworks "so far". If you sent us any mail@homework before 4.20 24.10.16 and we haven't replied yet - PM us in slack or create github issue or just contact us IRL - we'll fix that.
 * 21.10 - There will be no classes on the 28.10;
 * 21.10 - week5 notebook is NOT homework assignment notebook. Homework and deadlines TBA
 * 20.10 - we now have a [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning) for you if you got to the seminar without a notebook (with a phone) or have some temporary technical issues. Binder only lasts 1 hour so please do not use it for homeworks.
@@ -64,6 +65,10 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Batchnorm and dropout for RNN; Seq2seq: machine translation, conversation models, speech recognition and more. Attention. Long term memory architectures.
   - [ ] Seminar: a toy machine translation task
     - to be anounced
+ - [Skip week]
+ - __week6__ Advanced computer vision (around 4.11)
+   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
+   - [ ] Seminar: Image captioning by Arseniy Ashukha
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
