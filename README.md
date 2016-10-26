@@ -11,6 +11,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 26.10 - Preliminary poll on next lecture date: http://doodle.com/poll/cvew2rkn9u9x5ept . Please participate ASAP.
 * 24.10 - Checked up homeworks "so far". If you sent us any mail@homework before 4.20 24.10.16 and we haven't replied yet - PM us in slack or create github issue or just contact us IRL - we'll fix that.
 * 21.10 - There will be no classes on the 28.10;
 * 21.10 - week5 notebook is NOT homework assignment notebook. Homework and deadlines TBA
