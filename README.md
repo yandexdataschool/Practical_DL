@@ -66,10 +66,10 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Batchnorm and dropout for RNN; Seq2seq: machine translation, conversation models, speech recognition and more. Attention. Long term memory architectures.
   - [ ] Seminar: a toy machine translation task
     - to be anounced
- - [Skip week]
- - __week6__ Advanced computer vision (around 4.11)
-   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
-   - [ ] Seminar: Image captioning by Arseniy Ashukha
+- [Skip week]
+- __week6__ Advanced computer vision (around 4.11)
+  - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
+  - [ ] Seminar: Image captioning by Arseniy Ashukha
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
