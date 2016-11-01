@@ -11,6 +11,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 1.11 - Week6 lecture will occur on Wednesday, 2.11 at 18-00 at approximately the same room 400.
 * 26.10 - Preliminary poll on next lecture date: http://doodle.com/poll/cvew2rkn9u9x5ept . Please participate ASAP.
 * 24.10 - Checked up homeworks "so far". If you sent us any mail@homework before 4.20 24.10.16 and we haven't replied yet - PM us in slack or create github issue or just contact us IRL - we'll fix that.
 * 21.10 - There will be no classes on the 28.10;
@@ -67,9 +68,21 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Seminar: a toy machine translation task
     - to be anounced
 - [Skip week]
-- __week6__ Advanced computer vision (around 4.11)
+- __week6__ Fine-tuning with neural networks
+  - [ ] Lecture: Large CV datasets, model zoo, reusing pre-trained networks, fine-tuning, "knowledge transfer", soft-targets
+  - [ ] Seminar: Cats Vs Dogs Vs Very Deep Networks
+- __week7__ Advanced computer vision (around 11.11)
   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
   - [ ] Seminar: Image captioning by Arseniy Ashukha
+- __week8__: Generative models for computer vision (around 18.11)
+  - [ ] Lecture: Autoencoders, Generative Adversarial Networks
+  - [ ] Seminar: Art Style Transfer with deep learning (Dmitry Ulyanov)
+
+(future lectures in random order)
+- __week[++i]__: Deep Reinforcement Learning I (Basic RL, Approximate RL, DQN, decorrelating)
+- __week[++1]__: Deep Reinforcement Learning II (POMDP, continuous action space, hierarchical rl)
+- __week[++i]__: Deep learning for sound processing (Ars)
+- __week[++i]__: Bayesian methods in deep learning (Khalman)
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
