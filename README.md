@@ -11,6 +11,9 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 3.11 - week7 will happen the regular way (friday, 18-00, room 400)
+* 3.11 - we checked up all homework assigments sent to us before 4:00 am 3.11.16. If you were for some reason left behind - write us (mail, slack, github issue, irl, ...) - we'll fix that.
+* 3.11 - week6 homework announced
 * 1.11 - Week6 lecture will occur on Wednesday, 2.11 at 18-00 at approximately the same room 400.
 * 26.10 - Preliminary poll on next lecture date: http://doodle.com/poll/cvew2rkn9u9x5ept . Please participate ASAP.
 * 24.10 - Checked up homeworks "so far". If you sent us any mail@homework before 4.20 24.10.16 and we haven't replied yet - PM us in slack or create github issue or just contact us IRL - we'll fix that.
