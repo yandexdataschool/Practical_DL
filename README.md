@@ -11,7 +11,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
-* 3.11 - week7 will happen the regular way (friday, 18-00, room 400)
+* 3.11 - week7 will happen on 11.11.2016 the regular way (friday, 18-00, room 400)
 * 3.11 - we checked up all homework assigments sent to us before 4:00 am 3.11.16. If you were for some reason left behind - write us (mail, slack, github issue, irl, ...) - we'll fix that.
 * 3.11 - week6 homework announced
 * 1.11 - Week6 lecture will occur on Wednesday, 2.11 at 18-00 at approximately the same room 400.
@@ -74,6 +74,7 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week6__ Fine-tuning with neural networks
   - [ ] Lecture: Large CV datasets, model zoo, reusing pre-trained networks, fine-tuning, "knowledge transfer", soft-targets
   - [ ] Seminar: Cats Vs Dogs Vs Very Deep Networks
+    - [ ] HW due 13.11.16 23.59
 - __week7__ Advanced computer vision (around 11.11)
   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
   - [ ] Seminar: Image captioning by Arseniy Ashukha
