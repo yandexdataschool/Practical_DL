@@ -5,6 +5,8 @@ MAINTAINER Alexander Panin <justheuristic@gmail.com>
 USER root
 
 RUN apt-get update
+RUN apt-get install -y htop
+RUN apt-get install -y unzip
 RUN apt-get install -y cmake
 RUN apt-get install -y zlib1g-dev
 RUN apt-get install -y libjpeg-dev 
