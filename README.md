@@ -11,7 +11,9 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 15.11 - HW checkup wave. If you sent us your homework solution before 05:00 15.11.2016 but we never replied yet - go get us @slack or post an issue here - we'll help
 * 13.11 - we fix__d__ week7 assignment and uploaded all the PDFs. Homework checkup wave is underway :)
+* x.11 - another wave of homework checkups happened
 * 3.11 - week7 will happen on 11.11.2016 the regular way (friday, 18-00, room 400)
 * 3.11 - we checked up all homework assigments sent to us before 4:00 am 3.11.16. If you were for some reason left behind - write us (mail, slack, github issue, irl, ...) - we'll fix that.
 * 3.11 - week6 homework announced
@@ -76,7 +78,7 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Large CV datasets, model zoo, reusing pre-trained networks, fine-tuning, "knowledge transfer", soft-targets
   - [ ] Seminar: Cats Vs Dogs Vs Very Deep Networks
     - [ ] HW due 17.11.16 23.59
-- __week7__ Advanced computer vision (around 11.11)
+- __week7__ Advanced computer vision
   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
   - [ ] Seminar: Image captioning by Arseniy Ashukha
     - [ ] HW due 24.11.16 23.59
