@@ -11,6 +11,10 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 2.12 - updated info
+* 2.12 - checked up all submissions sent before 5 AM (we hope). If yours is missing, PM or issue us.
+* 2.12 - winter is coming... winder is here. Deadlines are coming!
+* 25.11 - week9 by Arseny Ashukha on deep learning for sound processing
 * 15.11 - HW checkup wave. If you sent us your homework solution before 05:00 15.11.2016 but we never replied yet - go get us @slack or post an issue here - we'll help
 * 13.11 - we fix__d__ week7 assignment and uploaded all the PDFs. Homework checkup wave is underway :)
 * x.11 - another wave of homework checkups happened
