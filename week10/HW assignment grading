@@ -1,0 +1,13 @@
+The week10 homework is basically about making qlearning work.
+The only file that you will have to change in ./assignment folder is qlearningAgents.py (contains instructions on what you have to do).
+The base score will be awarded for sending qlearningAgents.py [and any other files you changed if any] that can be plugged into the ./assignment to learn optimal policies in 3 environments (gridworld, crawler, pacman)
+
+- cmdname -- comment
+- python gridworld.py -a q -k 100 -n 0 -g BookGrid -e 0.5 -- find some trajectory to the reward
+- python crawler.py -- able to train for >3 speed (lower-right)
+- python pacman.py -p PacmanQAgent -x 2000 -n 2010 -l smallGrid -- able to win 90%++ of the time
+- python pacman.py -p PacmanQAgent -x TRAINING_EPOCHS -n TRAINING+DEMO_EPOCHS -l mediumGrid -- win 90%++ of the time given sufficiently long training
+- python pacman.py -p PacmanQAgent -x TRAINING_EPOCHS -n TRAINING+DEMO_EPOCHS -l mediumClassic -- if you're feeling mashochistic
+
+One way to get bonus points is to implement approximate Q(s,a) with a linear model for pacman given some handcrafted features from the state (e.g. distance to ghosts, dots, etc.) such that it gets better score than your first model has after 1k iterations on mediumClassic
+
