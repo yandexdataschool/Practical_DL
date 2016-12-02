@@ -15,6 +15,7 @@ Lecture and seminar materials for each week is in ./week* folders
 * 2.12 - checked up all submissions sent before 5 AM (we hope). If yours is missing, PM or issue us.
 * 2.12 - winter is coming... winder is here. Deadlines are coming!
 * 25.11 - week9 by Arseny Ashukha on deep learning for sound processing
+* 18.11 - week8 by Dmitry Ulyanov
 * 15.11 - HW checkup wave. If you sent us your homework solution before 05:00 15.11.2016 but we never replied yet - go get us @slack or post an issue here - we'll help
 * 13.11 - we fix__d__ week7 assignment and uploaded all the PDFs. Homework checkup wave is underway :)
 * x.11 - another wave of homework checkups happened
@@ -86,15 +87,29 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
   - [ ] Seminar: Image captioning by Arseniy Ashukha
     - [ ] HW due 24.11.16 23.59
-- __week8__: Generative models for computer vision (around 18.11)
+- __week8__: Generative models for computer vision
   - [ ] Lecture: Autoencoders, Generative Adversarial Networks
   - [ ] Seminar: Art Style Transfer with deep learning (Dmitry Ulyanov)
+    - [ ] HW due 4.12.16 23.59
+- __week8__: Deep learning for sound processing
+  - [ ] Lecture: case study: music recommendation with deep learning
+  - [ ] Seminar: Music clustering & content-based recommentation with convolutional nets
+    - [ ] HW due 11.12.16 23.59
+- __week9__: Basic reinforcement learning
+  - [ ] Lecture: Introduction to reinforcement learning
+  - [ ] Seminar: one algorithm to navigate in a maze, play pacman and control robots.
+    - [ ] HW due 11.12.16 23.59
+- __week10__: Deep reinforcement learning
+  - [ ] Lecture: approximate reinforcement learning with deep neural networks (problems and solutions)
+  - [ ] Seminar: Playing Atari/Doom with deep reinforcement learning
+    - [ ] HW due 18.12.16 first submission 
+__TBA__
+  - [ ] Lecture: Basics of bayesian approach to probabilities
+  - [ ] Bonus lecture: Variational autoencoders (Mikhail Khalman)
+  - [ ] Bonus lecture: ADVI (ferrine) [hopefully]
+  - [ ] Exam for 10 points
+ 
 
-(future lectures in random order)
-- __week[++i]__: Deep Reinforcement Learning I (Basic RL, Approximate RL, DQN, decorrelating)
-- __week[++1]__: Deep Reinforcement Learning II (POMDP, continuous action space, hierarchical rl)
-- __week[++i]__: Deep learning for sound processing (Ars)
-- __week[++i]__: Bayesian methods in deep learning (Khalman)
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
