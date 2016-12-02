@@ -103,7 +103,7 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: approximate reinforcement learning with deep neural networks (problems and solutions)
   - [ ] Seminar: Playing Atari/Doom with deep reinforcement learning
     - [ ] HW due 18.12.16 first submission 
-__TBA__
+- __TBA__
   - [ ] Lecture: Basics of bayesian approach to probabilities
   - [ ] Bonus lecture: Variational autoencoders (Mikhail Khalman)
   - [ ] Bonus lecture: ADVI (ferrine) [hopefully]
