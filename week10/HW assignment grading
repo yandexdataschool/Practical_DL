@@ -9,5 +9,13 @@ The base score will be awarded for sending qlearningAgents.py [and any other fil
 - python pacman.py -p PacmanQAgent -x TRAINING_EPOCHS -n TRAINING+DEMO_EPOCHS -l mediumGrid -- win 90%++ of the time given sufficiently long training
 - python pacman.py -p PacmanQAgent -x TRAINING_EPOCHS -n TRAINING+DEMO_EPOCHS -l mediumClassic -- if you're feeling mashochistic
 
-One way to get bonus points is to implement approximate Q(s,a) with a linear model for pacman given some handcrafted features from the state (e.g. distance to ghosts, dots, etc.) such that it gets better score than your first model has after 1k iterations on mediumClassic
+One way to get bonus points is to implement approximate Q(s,a) with a linear model for pacman given some handcrafted features from the state (e.g. distance to ghosts, dots, etc.) such that it gets better score than your first model has after 1k iterations on mediumClassic.
 
+You can explore state parameters by printing it (e.g. in getValue function) or running in debug mode.
+For example, it you print dir(state) for pacman, you'll see this:
+print dir(state) #in getValue
+['__doc__', '__eq__', '__hash__', '__init__', '__module__', '__str__', 'data', 'deepCopy', 'generatePacmanSuccessor', 'generateSuccessor', 'getCapsules', 'getFood', 'getGhostPosition', 'getGhostPositions', 'getGhostState', 'getGhostStates', 'getLegalActions', 'getLegalPacmanActions', 'getNumAgents', 'getNumFood', 'getPacmanPosition', 'getPacmanState', 'getScore', 'getWalls', 'hasFood', 'hasWall', 'initialize', 'isLose', 'isWin']
+and if you call
+print state.getGhostPositions()
+you'll see a list of respective (x,y) coordinates of all ghosts, e.g.
+[(5.0, 2.0),(6.0,4.0)] #two ghosts in mediumClassic
