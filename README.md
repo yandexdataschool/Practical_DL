@@ -1,7 +1,10 @@
 # HSE_deeplearning
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning)
 Fork of Lempitsky DL for HSE master students
+
 Lecture and seminar materials for each week is in ./week* folders
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning) (servers may be down time to time, sry)
+
 
 # Coordinates
 * The classes are currently happening on __fridays at 18.00, room 400 (CS.HSE)__. There is also a backup thread for those who __cannot__ appear in the main thread(please e-mail or PM@slack us for details).
@@ -11,6 +14,9 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 13.12 - A note to HSE students - final deadline is department-forced to happen on 26.12. We are [probably] terribly sorry.  Please make sure that your [points so far](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing) is at least 40 or will get there in time. We'll also have a _practical_ exam, with tasks distributed __next lecture__. [Details](https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works)
+* 13.12 - another total chechup wave (everything you sent us by 01:30 13.12.2016 should have been checked. If not, ping us/create issue)
+* 9.12 - week11 uploaded
 * 2.12 - updated info
 * 2.12 - checked up all submissions sent before 5 AM (we hope). If yours is missing, PM or issue us.
 * 2.12 - winter is coming... winder is here. Deadlines are coming!
