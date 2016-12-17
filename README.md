@@ -135,7 +135,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Fedor Ratnikov aka Alexander Panin](https://github.com/justheuristic/) - lectures, seminars, hw checkups
+- [Fedor Ratnikov](https://github.com/justheuristic/) - lectures, seminars, hw checkups
 - [Oleg Vasilev](https://github.com/Omrigan) - seminars, hw checkups, technical issue resolution
 - [Arseniy Ashukha](https://github.com/ars-ashuha) - image captioning, sound processing, week7&9 lectures
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - generative models, week8 lecture, week12 homework assignment
