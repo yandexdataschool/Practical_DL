@@ -14,6 +14,10 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 17.12 - added MIT just for kicks
+* 16.12 - exam/project rules published - https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works - ping us on which problems you prefer (see slack for reservations; will add table tomorrow)
+* 16.12 - cheched up whatever you sent us before 16.00 PM 16.12. Some of your submissions haven't been graded yet? ping us asap.
+* 16.12 - bayesian lecture happened
 * 13.12 - A note to HSE students - final deadline is department-forced to happen on 26.12. We are [probably] terribly sorry.  Please make sure that your [points so far](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing) is at least 40 or will get there in time. We'll also have a _practical_ exam, with tasks distributed __next lecture__. [Details](https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works)
 * 13.12 - another total chechup wave (everything you sent us by 01:30 13.12.2016 should have been checked. If not, ping us/create issue)
 * 9.12 - week11 uploaded
@@ -108,10 +112,12 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week10__: Deep reinforcement learning
   - [ ] Lecture: approximate reinforcement learning with deep neural networks (problems and solutions)
   - [ ] Seminar: Playing Atari/Doom with deep reinforcement learning
-    - [ ] HW due 18.12.16 first submission 
-- __TBA__
+    - [ ] HW due 18.12.16 23.59 first submission 
+- __week12__: Bayesian deep learning
   - [ ] Lecture: Basics of bayesian approach to probabilities
   - [ ] Bonus lecture: Variational autoencoders (Mikhail Khalman)
+    - [ ] HW due 26.12.16 16.00 hard
+- maaaybe
   - [ ] Bonus lecture: ADVI (ferrine) [hopefully]
   - [ ] Exam for 10 points
  
@@ -126,3 +132,12 @@ Lecture and seminar materials for each week is in ./week* folders
 * [Reducing lateness penalty](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
 * [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
 * [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning)
+
+# Contributors & course staff
+Course materials and teaching performed by
+- [Fedor Ratnikov](https://github.com/justheuristic/) - lectures, seminars, hw checkups
+- [Oleg Vasilev](https://github.com/Omrigan) - seminars, hw checkups, technical issue resolution
+- [Arseniy Ashukha](https://github.com/ars-ashuha) - image captioning, sound processing, week7&9 lectures
+- [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - generative models, week8 lecture, week12 homework assignment
+- [Mikhail Khalman](https://github.com/mihaha?tab=activity) - variational autoencoders, lecture 12
+- [Vadim Lebedev](https://github.com/vadim-v-lebedev) - week0 & week6 homeworks
