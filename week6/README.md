@@ -1,5 +1,4 @@
-# vgg_binder
-ty cygnus@
-
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/justheuristic/vgg_binder)
+More materials:
+- http://cs231n.github.io/transfer-learning/
+- lasagne [recipes](https://github.com/Lasagne/Recipes)
+- [a few words on soft-targets](http://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
