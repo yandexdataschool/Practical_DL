@@ -15,6 +15,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 23.12 - added some bonus links in most weeks for those mysterious people who lurk this repo from outside the HSE.
 * 23.12 - pre-exam Q&A happened. Exam will happen next monday at 16.40, room 311
 * 17.12 - added MIT just for kicks
 * 16.12 - exam/project rules published - https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works - ping us on which problems you prefer (see slack for reservations; will add table tomorrow)
@@ -119,9 +120,6 @@ Lecture and seminar materials for each week is in ./week* folders
   - [ ] Lecture: Basics of bayesian approach to probabilities
   - [ ] Bonus lecture: Variational autoencoders (Mikhail Khalman)
     - [ ] HW due 26.12.16 16.00 hard
-- maaaybe
-  - [ ] Bonus lecture: ADVI (ferrine) [hopefully]
-  - [ ] Exam for 10 points
  
 
 
