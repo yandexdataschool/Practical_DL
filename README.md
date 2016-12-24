@@ -7,6 +7,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Coordinates
+* Exam will happen next monday at 16.40, room 311 . [Exam rules.](https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works) If you found out about the course last week, we recommend [this option.](https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works#n-1-homework-as-an-exam-task)
 * The classes are currently happening on __fridays at 18.00, room 400 (CS.HSE)__. There is also a backup thread for those who __cannot__ appear in the main thread(please e-mail or PM@slack us for details).
 * Course mail - deeplearninghse16@gmail.com - for homework assignments, project stuff, questions, suggestions, intimidations, etc.
 * Slack group - write a.manokhina@gmail.com for slack invitation [instructors appear ~once in two days]
@@ -14,6 +15,7 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 23.12 - pre-exam Q&A happened. Exam will happen next monday at 16.40, room 311
 * 17.12 - added MIT just for kicks
 * 16.12 - exam/project rules published - https://github.com/yandexdataschool/HSE_deeplearning/wiki/How-exam-works - ping us on which problems you prefer (see slack for reservations; will add table tomorrow)
 * 16.12 - cheched up whatever you sent us before 16.00 PM 16.12. Some of your submissions haven't been graded yet? ping us asap.
