@@ -3,11 +3,7 @@ Fork of Lempitsky DL for HSE master students
 
 Lecture and seminar materials for each week is in ./week* folders
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning) (servers may be down time to time, sry)
-
-
-# Coordinates
-* Autumn'16 track finished, new track eta next autumn. Meanwhile, course materials will be reused for YSDA.
+# General info
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues)
 
 # Enrollment guide
