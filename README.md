@@ -4,6 +4,7 @@ Fork of Lempitsky DL for HSE master students
 Lecture and seminar materials for each week is in ./week* folders
 
 # General info
+* Create cloud jupyter with repo https://beta.mybinder.org/v2/gh/yandexdataschool/Practical_RL/fall17
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues)
 
 # Enrollment guide
