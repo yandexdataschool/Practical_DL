@@ -26,7 +26,6 @@ Lecture and seminar materials for each week are in ./week* folders
 
 
 # Stuff
-* 
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
 * [Project rules](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Course-projects)
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
