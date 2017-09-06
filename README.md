@@ -26,6 +26,7 @@ Lecture and seminar materials for each week are in ./week* folders
 
 
 # Stuff
+* 
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
 * [Project rules](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Course-projects)
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
@@ -33,7 +34,7 @@ Lecture and seminar materials for each week are in ./week* folders
 * [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
 * [Reducing lateness penalty](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Back-to-the-future)
 * [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
-* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/hse_deeplearning)
+* [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org:/repo/yandexdataschool/practical_deeplearning)
 
 # Contributors & course staff
 Course materials and teaching performed by
