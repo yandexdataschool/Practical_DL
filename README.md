@@ -8,6 +8,7 @@ __Attention!__ This is a new iteration of on-campus deeplearning course. For ful
 
 # General info
 * Create cloud jupyter with repo https://beta.mybinder.org/v2/gh/yandexdataschool/Practical_RL/fall17
+* Lecture slides are stored in [this folder](https://yadi.sk/d/ExaKWAFN3MjPsd) (odp, pdf). You can also view slides from each week's page.
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues)
 
 # Enrollment guide
