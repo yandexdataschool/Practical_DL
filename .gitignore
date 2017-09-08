@@ -5,8 +5,7 @@ node_modules
 # swap files
 *~
 *.swp
-
-
+..bfg-report
 
 env.sh
 # Byte-compiled / optimized / DLL files
