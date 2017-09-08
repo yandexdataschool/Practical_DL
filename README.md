@@ -1,4 +1,4 @@
-# HSE_deeplearning fall'17
+# Deep learning course @ fall'17
 Fork of Lempitsky DL for HSE master students.
 
 Lecture and seminar materials for each week are in ./week* folders
