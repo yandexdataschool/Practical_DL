@@ -1,7 +1,10 @@
-# HSE_deeplearning
-Fork of Lempitsky DL for HSE master students
+# HSE_deeplearning fall'17
+Fork of Lempitsky DL for HSE master students.
 
-Lecture and seminar materials for each week is in ./week* folders
+Lecture and seminar materials for each week are in ./week* folders
+
+__Attention!__ This is a new iteration of on-campus deeplearning course. For full course materials '2016, go to [this branch](https://github.com/yandexdataschool/practical_deeplearning/tree/last_iteration)
+
 
 # General info
 * Create cloud jupyter with repo https://beta.mybinder.org/v2/gh/yandexdataschool/Practical_RL/fall17
@@ -18,61 +21,48 @@ Lecture and seminar materials for each week is in ./week* folders
 
 # Syllabus
 - __week0__ Recap
-  - [ ] Lecture: Linear models, stochastic optimization, regularization
-  - [ ] Seminar: Linear classification, sgd, modifications
-     - [ ] HW due: 28.09.16, 23.59.
+  - [ ] Lecture: Linear models, stochastic optimization, basic neural networks and backprop
+  - [ ] Seminar: Neural networks in numpy, adaptive SGD
+     - [ ] HW due: 17.09.16, 23.59.
   - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
-- __week1__ Getting deeper
-  - [ ] Lecture: Neural networks 101
-  - [ ] Seminar: theano, symbolic graphs and basic neural networks
-    - [ ] HW due: 3.10.16 23.59 
-- __week2__ Deep learning for computer vision 101
-  - [ ] Lecture: Convolutional neural networks
-  - [ ] Seminar: lasagne and CIFAR
-    - [ ] HW due: 9.10.16 23.59 on first submission.
-- __week3__ Deep learning for natural language processing 101
+    - You may choose tensorflow/pytorch version if you prefer 'em
+- __week1__ Symbolic graphs
+  - [ ] Lecture: Backprop recap. Deep learning frameworks. Some philosophy. DL tricks: dropout, normalization
+  - [ ] Seminar: Symbolic graphs and basic neural networks
+  
+- __week2__ Deep learning for computer vision
+  - [ ] Lecture: Convolutional neural networks, data augmentation & hacks.
+  - [ ] Seminar: Convnets for CIFAR
+  
+- __week3__ Advanced computer vision
+  - [ ] Lecture: Computer vision beyond image classification. Segmentation, object detection, identification. Model zoo & fine-tuning
+  - [ ] Seminar: Model zoo. Siamese nets for identification.
+  
+- __week4__ Unsupervised & generative methods
+  - [ ] Lecture: Autoencoders, Generative Adversarial Networks
+  - [ ] Seminar: Generative Adversarial Networks. [hopefully] Art Style Transfer by Dmitry Ulyanov
+
+- __week5__ Deep learning for natural language processing 101
   - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
-  - [ ] Seminar: Text convolutions for Avito content filtering task
-    - [ ] HW due: 16.10.16 23.59 on first submission.
-- __week4__ Recurrent neural networks for sequences
+  - [ ] Seminar: Word embeddings. Text convolutions for salary prediction.
+  
+- __week6__ Recurrent neural networks
   - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
   - [ ] Seminar: Generating laws for pitiful humans with mighty RNNs.
-    - [ ] HW due: 28.10.16 23.59 on first submission.
-- __week5__ Recurrent neural networks II
-  - [ ] Lecture: Batchnorm and dropout for RNN; Seq2seq: machine translation, conversation models, speech recognition and more. Attention. Long term memory architectures.
-  - [ ] Seminar: a toy machine translation task
-    - to be anounced
-- [Skip week]
-- __week6__ Fine-tuning with neural networks
-  - [ ] Lecture: Large CV datasets, model zoo, reusing pre-trained networks, fine-tuning, "knowledge transfer", soft-targets
-  - [ ] Seminar: Cats Vs Dogs Vs Very Deep Networks
-    - [ ] HW due 17.11.16 23.59
-- __week7__ Advanced computer vision
-  - [ ] Lecture: Representations within convnets, fully-convolutional networks, bounding box regression, maxout, etc.
-  - [ ] Seminar: Image captioning by Arseniy Ashukha
-    - [ ] HW due 24.11.16 23.59
-- __week8__: Generative models for computer vision
-  - [ ] Lecture: Autoencoders, Generative Adversarial Networks
-  - [ ] Seminar: Art Style Transfer with deep learning (Dmitry Ulyanov)
-    - [ ] HW due 4.12.16 23.59
-- __week8__: Deep learning for sound processing
-  - [ ] Lecture: case study: music recommendation with deep learning
-  - [ ] Seminar: Music clustering & content-based recommentation with convolutional nets
-    - [ ] HW due 11.12.16 23.59
-- __week9__: Basic reinforcement learning
-  - [ ] Lecture: Introduction to reinforcement learning
-  - [ ] Seminar: one algorithm to navigate in a maze, play pacman and control robots.
-    - [ ] HW due 11.12.16 23.59
-- __week10__: Deep reinforcement learning
-  - [ ] Lecture: approximate reinforcement learning with deep neural networks (problems and solutions)
-  - [ ] Seminar: Playing Atari/Doom with deep reinforcement learning
-    - [ ] HW due 18.12.16 23.59 first submission 
-- __week12__: Bayesian deep learning
-  - [ ] Lecture: Basics of bayesian approach to probabilities
-  - [ ] Bonus lecture: Variational autoencoders (Mikhail Khalman)
-    - [ ] HW due 26.12.16 16.00 hard
+
+- __week7__ Recurrent neural networks II
+  - [ ] Lecture: Sequence labeling & applications. Seq2seq & applications. Attention. Batchnorm and dropout for RNN.
+  - [ ] Seminar: Image Captioning
+
+- __week8__: Deep reinforcement learning
+  - [ ] Lecture: Reinforcement learning applications. Policy gradient. REINFORCE.
+  - [ ] Seminar: REINFORCE agent with deep neural net policy for RL problems
+  
+- __week9__: Bayesian deep learning
+  - [ ] Lecture: Bayesian vs Frequentist idea of probability. Bayesian methods around you. Variational Autoencoder. Bayesian Neural Network.
+  - [ ] Seminar: Bayesian Neural Nets; Variational autoencoders [Hopefully by Mikhail Khalman]
  
 
 
