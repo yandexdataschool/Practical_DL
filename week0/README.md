@@ -17,3 +17,11 @@
   - Interactive [neural network playground](http://playground.tensorflow.org/) in your browser
   - pretty much all the module 1 of http://cs231n.github.io/
 
+
+## Assignment
+
+Your first assignment consists of two parts:
+* Part I, where you implement simple logistic regression and train it with adaptive SGD modiffications
+* Part II, where you implement a simple neural network in pure numpy
+
+Both those notebooks are in current folder under respective names.
