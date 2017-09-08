@@ -1,4 +1,5 @@
 
+[__Lecture slides__](https://yadi.sk/i/LdEIut2z3MjPMv)
 ## Materials
 - [main stuff from cs231](http://cs231n.github.io/linear-classify/)
 * Lecture on deep learning (russian) - [url](https://www.youtube.com/watch?v=8008XQzoUEs)
