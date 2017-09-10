@@ -14,7 +14,7 @@ __Attention!__ This is a new iteration of on-campus deeplearning course. For ful
 # Enrollment guide
 1. Bookmark repo https://github.com/yandexdataschool/practical_deeplearning
 2. Join telegram chat https://t.me/dl_hse_fall17
-3. Enroll to anytak __TBA__
+3. Enroll to http://anytask.org with invite code __7pp6jP3__
 4. Join piazza https://piazza.com/cs_hse/fall2017/dl101/home with access code __dl101__
 
 # Announcements
