@@ -12,9 +12,13 @@ __Attention!__ This is a new iteration of on-campus deeplearning course. For ful
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues)
 
 # Enrollment guide
-1. Bookmark repo https://github.com/yandexdataschool/practical_deeplearning
+HSE classes are happening on wednesdays, 18-10 till 21-00. [room number TBA]
+
+Everyone who wants to attend the course ping jheuristic@yandex-team.ru
+
+1. Bookmark repo https://github.com/yandexdataschool/practical_DL
 2. Join telegram chat https://t.me/dl_hse_fall17
-3. Enroll to http://anytask.org with invite code __7pp6jP3__
+3. (only HSE students) Enroll to http://anytask.org with invite code __7pp6jP3__
 4. Join piazza https://piazza.com/cs_hse/fall2017/dl101/home with access code __dl101__
 
 # Announcements
