@@ -18,8 +18,9 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 
 1. Bookmark repo https://github.com/yandexdataschool/practical_DL
 2. Join telegram chat https://t.me/dl_hse_fall17
-3. (only HSE students) Enroll to http://anytask.org with invite code __7pp6jP3__
+3. (only HSE students) Enroll to anytask.org/course/227 with invite code __7pp6jP3__
 4. Join piazza https://piazza.com/cs_hse/fall2017/dl101/home with access code __dl101__
+5. Read [rules](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE))
 
 # Announcements
 * 06.09 - Course started
