@@ -29,7 +29,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week0__ Recap
   - [ ] Lecture: Linear models, stochastic optimization, basic neural networks and backprop
   - [ ] Seminar: Neural networks in numpy, adaptive SGD
-     - [ ] HW due: 17.09.16, 23.59.
+     - [ ] HW due: 17.09.17, 23.59.
   - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
@@ -37,6 +37,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week1__ Symbolic graphs
   - [ ] Lecture: Backprop recap. Deep learning frameworks. Some philosophy. DL tricks: dropout, normalization
   - [ ] Seminar: Symbolic graphs and basic neural networks
+     - [ ] HW due 24.09.17, 23.59
   
 - __week2__ Deep learning for computer vision
   - [ ] Lecture: Convolutional neural networks, data augmentation & hacks.
