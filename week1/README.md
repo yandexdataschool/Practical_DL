@@ -1,4 +1,4 @@
-#### Lecture slides: TODO
+#### Lecture slides: [click here](https://yadi.sk/i/x36dpG-K3Mt9uE)
 
 Materials
 - [Backprop by cs231](http://cs231n.github.io/optimization-2/)
