@@ -2,11 +2,13 @@
 [__Lecture slides__](https://yadi.sk/i/LdEIut2z3MjPMv)
 ## Materials
 * Russian lectures:
-  * Lecture on basic neural networks (russian) - [url](https://yadi.sk/i/yyHZub6R3Ej5dV)
-  * Adaptive optimization methods (russian) - [url](https://yadi.sk/i/SAGl44PS3EHZeK)
-  * Backprop one formula at a time (russian) - [url](https://yadi.sk/i/0AuHgNsv3EHZhN)
-* Lecture on neural nets and backprop (english) - [url](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
-* Stanford course in deep learning - [cs231](http://cs231n.github.io/linear-classify/)
+  * Lecture on basic neural networks (russian) - [video](https://yadi.sk/i/yyHZub6R3Ej5dV)
+  * Adaptive optimization methods (russian) - [video](https://yadi.sk/i/SAGl44PS3EHZeK)
+  * Backprop one formula at a time (russian) - [video](https://yadi.sk/i/0AuHgNsv3EHZhN)
+* English lectures:
+  * A lecture on backprop (karpathy) - [video](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+  * [alternative] A more classical lecture on neural networks (english) - [video](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
+  * Stochastic gradient descent modiffications - [video](https://www.youtube.com/watch?v=nhqo0u1a6fw)
 
 ## More on Stochastic Gradient Descent
   - [A blog post overview of gradient descent methods](http://ruder.io/optimizing-gradient-descent/)
