@@ -1,21 +1,23 @@
 
 [__Lecture slides__](https://yadi.sk/i/LdEIut2z3MjPMv)
 ## Materials
-- [main stuff from cs231](http://cs231n.github.io/linear-classify/)
-* Lecture on deep learning (russian) - [url](https://www.youtube.com/watch?v=8008XQzoUEs)
-* Intro to neural nets and backprop (english) - [url](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
+* Russian lectures:
+  * Lecture on basic neural networks (russian) - [url](https://yadi.sk/i/yyHZub6R3Ej5dV)
+  * Adaptive optimization methods (russian) - [url](https://yadi.sk/i/SAGl44PS3EHZeK)
+  * Backprop one formula at a time (russian) - [url](https://yadi.sk/i/0AuHgNsv3EHZhN)
+* Lecture on neural nets and backprop (english) - [url](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
+* Stanford course in deep learning - [cs231](http://cs231n.github.io/linear-classify/)
 
-
-* Stochastic Gradient Descent
+## More on Stochastic Gradient Descent
   - [A blog post overview of gradient descent methods](http://ruder.io/optimizing-gradient-descent/)
-  - [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
   - [Cool interactive demo of momentum](http://distill.pub/2017/momentum/)
+  - [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
   - [RMSPROP video](https://www.youtube.com/watch?v=defQQqkXEfE)
 
-* Neural nets and backprop
+## More on neural nets and backprop
+  - Interactive [neural network playground](http://playground.tensorflow.org/) in your browser
   - [Backprop by cs231](http://cs231n.github.io/optimization-2/)
   - [Notation](http://cs231n.github.io/neural-networks-1/#nn)
-  - Interactive [neural network playground](http://playground.tensorflow.org/) in your browser
   - pretty much all the module 1 of http://cs231n.github.io/
 
 
