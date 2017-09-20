@@ -8,6 +8,7 @@
 
 - In english:
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
+  - A lecture on activations, recap of adaptive SGD and dropout (karpathy) - [video](https://www.youtube.com/watch?v=KaR4lIdI1MQ)
   - Theano tutorial from Lamblin (english) - [video](https://www.youtube.com/watch?v=OU8I1oJ9HhI)
   - [bonus video] Deep learning philosophy: [our humble take](https://www.youtube.com/watch?v=9qyE1Ev1Xdw) (english)
 
