@@ -2,8 +2,12 @@
 
 import numpy as np
 from sklearn.cross_validation import train_test_split
-import urllib2
-import urllib
+import os, sys
+if sys.version_info[0] == 2:
+    from urllib import urlretrieve
+else:
+    from urllib.request import urlretrieve
+
 def unpickle(file):
     import cPickle
     fo = open(file, 'rb')
@@ -12,28 +16,29 @@ def unpickle(file):
     return dict
 
 
-import os
+
+
 def download_cifar10(path,
                      url='https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz',
-                     tarname='cifar-10-python.tar.gz'):
+                     tarname='cifar-10-python.tar.gz',):
     import tarfile
     if not os.path.exists(path):
         os.mkdir(path)
     
         
 
-    urllib.urlretrieve(url, os.path.join(path,tarname))
+    urlretrieve(url, os.path.join(path,tarname))
     tfile = tarfile.open(os.path.join(path,tarname))
     tfile.extractall(path=path)
     
 
-def load_cifar10(data_path=".",test_size=0.2,random_state=1337):
+def load_cifar10(data_path=".",channels_last=False,test_size=0.2,random_state=1337):
     
     test_path = os.path.join(data_path,"cifar-10-batches-py/test_batch")
     train_paths = [os.path.join(data_path,"cifar-10-batches-py/data_batch_%i"%i) for i in range(1,6)]
     
     if not os.path.exists(test_path) or not all(list(map(os.path.exists, train_paths))):
-        print "Dataset not found. Downloading..."
+        print ("Dataset not found. Downloading...")
         download_cifar10(data_path)
 
     train_batches = list(map(unpickle,train_paths))
@@ -47,6 +52,15 @@ def load_cifar10(data_path=".",test_size=0.2,random_state=1337):
     
     X_test = test_batch["data"].reshape([-1,3,32,32]).astype('float32')/255
     y_test = np.array(test_batch["labels"]).astype('int32')
+    
+    if channels_last:
+        #convert from [batch,3,H,W] to [batch,H,W,3]
+        #WARNING! Make this is only necessary for tensorflow-style dim order
+        #If you use theano-style dimensions in keras config, skip this cell
+        X_train = X_train.transpose([0,2,3,1])
+        X_val   = X_val.transpose([0,2,3,1])
+        X_test  = X_test.transpose([0,2,3,1])
+
     
     return X_train,y_train,X_val,y_val,X_test,y_test
     
