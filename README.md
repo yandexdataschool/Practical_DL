@@ -23,6 +23,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 5. Read [rules](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE))
 
 # Announcements
+* 21.09 - for those using TF + keras in week2: if you have any problems please update your notebooks from current repository (new data reading script).
 * 06.09 - Course started
 
 # Syllabus
@@ -42,6 +43,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week2__ Deep learning for computer vision
   - [ ] Lecture: Convolutional neural networks, data augmentation & hacks.
   - [ ] Seminar: Convnets for CIFAR
+     - [ ] HW due 1.10.17, 23.59
   
 - __week3__ Advanced computer vision
   - [ ] Lecture: Computer vision beyond image classification. Segmentation, object detection, identification. Model zoo & fine-tuning
