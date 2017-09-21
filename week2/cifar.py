@@ -1,17 +1,23 @@
 """I load some cifar"""
 
 import numpy as np
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 import os, sys
 if sys.version_info[0] == 2:
     from urllib import urlretrieve
+    import cPickle as pickle
+
 else:
     from urllib.request import urlretrieve
+    import pickle
 
 def unpickle(file):
-    import cPickle
     fo = open(file, 'rb')
-    dict = cPickle.load(fo)
+    if sys.version_info[0] == 2:
+        dict = pickle.load(fo)
+    else:
+        dict = pickle.load(fo,encoding='latin1')
+    
     fo.close()
     return dict
 
