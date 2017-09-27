@@ -8,6 +8,7 @@ __[Slides]__ - [here](https://yadi.sk/i/eyCRxQHx3NH2dg)
 - http://cs231n.github.io/transfer-learning/
 - lasagne [recipes](https://github.com/Lasagne/Recipes)
 - [a few words on soft-targets](http://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
+- If you want to learn more about graphical models - [first video](https://www.youtube.com/watch?v=uAsys22y5mY)
 
 
 ### Assignment
