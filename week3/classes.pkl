@@ -1,0 +1,2002 @@
+(lp1
+S'tench, Tinca tinca'
+p2
+aS'goldfish, Carassius auratus'
+p3
+aS'great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias'
+p4
+aS'tiger shark, Galeocerdo cuvieri'
+p5
+aS'hammerhead, hammerhead shark'
+p6
+aS'electric ray, crampfish, numbfish, torpedo'
+p7
+aS'stingray'
+p8
+aS'cock'
+p9
+aS'hen'
+p10
+aS'ostrich, Struthio camelus'
+p11
+aS'brambling, Fringilla montifringilla'
+p12
+aS'goldfinch, Carduelis carduelis'
+p13
+aS'house finch, linnet, Carpodacus mexicanus'
+p14
+aS'junco, snowbird'
+p15
+aS'indigo bunting, indigo finch, indigo bird, Passerina cyanea'
+p16
+aS'robin, American robin, Turdus migratorius'
+p17
+aS'bulbul'
+p18
+aS'jay'
+p19
+aS'magpie'
+p20
+aS'chickadee'
+p21
+aS'water ouzel, dipper'
+p22
+aS'kite'
+p23
+aS'bald eagle, American eagle, Haliaeetus leucocephalus'
+p24
+aS'vulture'
+p25
+aS'great grey owl, great gray owl, Strix nebulosa'
+p26
+aS'European fire salamander, Salamandra salamandra'
+p27
+aS'common newt, Triturus vulgaris'
+p28
+aS'eft'
+p29
+aS'spotted salamander, Ambystoma maculatum'
+p30
+aS'axolotl, mud puppy, Ambystoma mexicanum'
+p31
+aS'bullfrog, Rana catesbeiana'
+p32
+aS'tree frog, tree-frog'
+p33
+aS'tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui'
+p34
+aS'loggerhead, loggerhead turtle, Caretta caretta'
+p35
+aS'leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea'
+p36
+aS'mud turtle'
+p37
+aS'terrapin'
+p38
+aS'box turtle, box tortoise'
+p39
+aS'banded gecko'
+p40
+aS'common iguana, iguana, Iguana iguana'
+p41
+aS'American chameleon, anole, Anolis carolinensis'
+p42
+aS'whiptail, whiptail lizard'
+p43
+aS'agama'
+p44
+aS'frilled lizard, Chlamydosaurus kingi'
+p45
+aS'alligator lizard'
+p46
+aS'Gila monster, Heloderma suspectum'
+p47
+aS'green lizard, Lacerta viridis'
+p48
+aS'African chameleon, Chamaeleo chamaeleon'
+p49
+aS'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis'
+p50
+aS'African crocodile, Nile crocodile, Crocodylus niloticus'
+p51
+aS'American alligator, Alligator mississipiensis'
+p52
+aS'triceratops'
+p53
+aS'thunder snake, worm snake, Carphophis amoenus'
+p54
+aS'ringneck snake, ring-necked snake, ring snake'
+p55
+aS'hognose snake, puff adder, sand viper'
+p56
+aS'green snake, grass snake'
+p57
+aS'king snake, kingsnake'
+p58
+aS'garter snake, grass snake'
+p59
+aS'water snake'
+p60
+aS'vine snake'
+p61
+aS'night snake, Hypsiglena torquata'
+p62
+aS'boa constrictor, Constrictor constrictor'
+p63
+aS'rock python, rock snake, Python sebae'
+p64
+aS'Indian cobra, Naja naja'
+p65
+aS'green mamba'
+p66
+aS'sea snake'
+p67
+aS'horned viper, cerastes, sand viper, horned asp, Cerastes cornutus'
+p68
+aS'diamondback, diamondback rattlesnake, Crotalus adamanteus'
+p69
+aS'sidewinder, horned rattlesnake, Crotalus cerastes'
+p70
+aS'trilobite'
+p71
+aS'harvestman, daddy longlegs, Phalangium opilio'
+p72
+aS'scorpion'
+p73
+aS'black and gold garden spider, Argiope aurantia'
+p74
+aS'barn spider, Araneus cavaticus'
+p75
+aS'garden spider, Aranea diademata'
+p76
+aS'black widow, Latrodectus mactans'
+p77
+aS'tarantula'
+p78
+aS'wolf spider, hunting spider'
+p79
+aS'tick'
+p80
+aS'centipede'
+p81
+aS'black grouse'
+p82
+aS'ptarmigan'
+p83
+aS'ruffed grouse, partridge, Bonasa umbellus'
+p84
+aS'prairie chicken, prairie grouse, prairie fowl'
+p85
+aS'peacock'
+p86
+aS'quail'
+p87
+aS'partridge'
+p88
+aS'African grey, African gray, Psittacus erithacus'
+p89
+aS'macaw'
+p90
+aS'sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita'
+p91
+aS'lorikeet'
+p92
+aS'coucal'
+p93
+aS'bee eater'
+p94
+aS'hornbill'
+p95
+aS'hummingbird'
+p96
+aS'jacamar'
+p97
+aS'toucan'
+p98
+aS'drake'
+p99
+aS'red-breasted merganser, Mergus serrator'
+p100
+aS'goose'
+p101
+aS'black swan, Cygnus atratus'
+p102
+aS'tusker'
+p103
+aS'echidna, spiny anteater, anteater'
+p104
+aS'platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus'
+p105
+aS'wallaby, brush kangaroo'
+p106
+aS'koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus'
+p107
+aS'wombat'
+p108
+aS'jellyfish'
+p109
+aS'sea anemone, anemone'
+p110
+aS'brain coral'
+p111
+aS'flatworm, platyhelminth'
+p112
+aS'nematode, nematode worm, roundworm'
+p113
+aS'conch'
+p114
+aS'snail'
+p115
+aS'slug'
+p116
+aS'sea slug, nudibranch'
+p117
+aS'chiton, coat-of-mail shell, sea cradle, polyplacophore'
+p118
+aS'chambered nautilus, pearly nautilus, nautilus'
+p119
+aS'Dungeness crab, Cancer magister'
+p120
+aS'rock crab, Cancer irroratus'
+p121
+aS'fiddler crab'
+p122
+aS'king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica'
+p123
+aS'American lobster, Northern lobster, Maine lobster, Homarus americanus'
+p124
+aS'spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish'
+p125
+aS'crayfish, crawfish, crawdad, crawdaddy'
+p126
+aS'hermit crab'
+p127
+aS'isopod'
+p128
+aS'white stork, Ciconia ciconia'
+p129
+aS'black stork, Ciconia nigra'
+p130
+aS'spoonbill'
+p131
+aS'flamingo'
+p132
+aS'little blue heron, Egretta caerulea'
+p133
+aS'American egret, great white heron, Egretta albus'
+p134
+aS'bittern'
+p135
+aS'crane'
+p136
+aS'limpkin, Aramus pictus'
+p137
+aS'European gallinule, Porphyrio porphyrio'
+p138
+aS'American coot, marsh hen, mud hen, water hen, Fulica americana'
+p139
+aS'bustard'
+p140
+aS'ruddy turnstone, Arenaria interpres'
+p141
+aS'red-backed sandpiper, dunlin, Erolia alpina'
+p142
+aS'redshank, Tringa totanus'
+p143
+aS'dowitcher'
+p144
+aS'oystercatcher, oyster catcher'
+p145
+aS'pelican'
+p146
+aS'king penguin, Aptenodytes patagonica'
+p147
+aS'albatross, mollymawk'
+p148
+aS'grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus'
+p149
+aS'killer whale, killer, orca, grampus, sea wolf, Orcinus orca'
+p150
+aS'dugong, Dugong dugon'
+p151
+aS'sea lion'
+p152
+aS'Chihuahua'
+p153
+aS'Japanese spaniel'
+p154
+aS'Maltese dog, Maltese terrier, Maltese'
+p155
+aS'Pekinese, Pekingese, Peke'
+p156
+aS'Shih-Tzu'
+p157
+aS'Blenheim spaniel'
+p158
+aS'papillon'
+p159
+aS'toy terrier'
+p160
+aS'Rhodesian ridgeback'
+p161
+aS'Afghan hound, Afghan'
+p162
+aS'basset, basset hound'
+p163
+aS'beagle'
+p164
+aS'bloodhound, sleuthhound'
+p165
+aS'bluetick'
+p166
+aS'black-and-tan coonhound'
+p167
+aS'Walker hound, Walker foxhound'
+p168
+aS'English foxhound'
+p169
+aS'redbone'
+p170
+aS'borzoi, Russian wolfhound'
+p171
+aS'Irish wolfhound'
+p172
+aS'Italian greyhound'
+p173
+aS'whippet'
+p174
+aS'Ibizan hound, Ibizan Podenco'
+p175
+aS'Norwegian elkhound, elkhound'
+p176
+aS'otterhound, otter hound'
+p177
+aS'Saluki, gazelle hound'
+p178
+aS'Scottish deerhound, deerhound'
+p179
+aS'Weimaraner'
+p180
+aS'Staffordshire bullterrier, Staffordshire bull terrier'
+p181
+aS'American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier'
+p182
+aS'Bedlington terrier'
+p183
+aS'Border terrier'
+p184
+aS'Kerry blue terrier'
+p185
+aS'Irish terrier'
+p186
+aS'Norfolk terrier'
+p187
+aS'Norwich terrier'
+p188
+aS'Yorkshire terrier'
+p189
+aS'wire-haired fox terrier'
+p190
+aS'Lakeland terrier'
+p191
+aS'Sealyham terrier, Sealyham'
+p192
+aS'Airedale, Airedale terrier'
+p193
+aS'cairn, cairn terrier'
+p194
+aS'Australian terrier'
+p195
+aS'Dandie Dinmont, Dandie Dinmont terrier'
+p196
+aS'Boston bull, Boston terrier'
+p197
+aS'miniature schnauzer'
+p198
+aS'giant schnauzer'
+p199
+aS'standard schnauzer'
+p200
+aS'Scotch terrier, Scottish terrier, Scottie'
+p201
+aS'Tibetan terrier, chrysanthemum dog'
+p202
+aS'silky terrier, Sydney silky'
+p203
+aS'soft-coated wheaten terrier'
+p204
+aS'West Highland white terrier'
+p205
+aS'Lhasa, Lhasa apso'
+p206
+aS'flat-coated retriever'
+p207
+aS'curly-coated retriever'
+p208
+aS'golden retriever'
+p209
+aS'Labrador retriever'
+p210
+aS'Chesapeake Bay retriever'
+p211
+aS'German short-haired pointer'
+p212
+aS'vizsla, Hungarian pointer'
+p213
+aS'English setter'
+p214
+aS'Irish setter, red setter'
+p215
+aS'Gordon setter'
+p216
+aS'Brittany spaniel'
+p217
+aS'clumber, clumber spaniel'
+p218
+aS'English springer, English springer spaniel'
+p219
+aS'Welsh springer spaniel'
+p220
+aS'cocker spaniel, English cocker spaniel, cocker'
+p221
+aS'Sussex spaniel'
+p222
+aS'Irish water spaniel'
+p223
+aS'kuvasz'
+p224
+aS'schipperke'
+p225
+aS'groenendael'
+p226
+aS'malinois'
+p227
+aS'briard'
+p228
+aS'kelpie'
+p229
+aS'komondor'
+p230
+aS'Old English sheepdog, bobtail'
+p231
+aS'Shetland sheepdog, Shetland sheep dog, Shetland'
+p232
+aS'collie'
+p233
+aS'Border collie'
+p234
+aS'Bouvier des Flandres, Bouviers des Flandres'
+p235
+aS'Rottweiler'
+p236
+aS'German shepherd, German shepherd dog, German police dog, alsatian'
+p237
+aS'Doberman, Doberman pinscher'
+p238
+aS'miniature pinscher'
+p239
+aS'Greater Swiss Mountain dog'
+p240
+aS'Bernese mountain dog'
+p241
+aS'Appenzeller'
+p242
+aS'EntleBucher'
+p243
+aS'boxer'
+p244
+aS'bull mastiff'
+p245
+aS'Tibetan mastiff'
+p246
+aS'French bulldog'
+p247
+aS'Great Dane'
+p248
+aS'Saint Bernard, St Bernard'
+p249
+aS'Eskimo dog, husky'
+p250
+aS'malamute, malemute, Alaskan malamute'
+p251
+aS'Siberian husky'
+p252
+aS'dalmatian, coach dog, carriage dog'
+p253
+aS'affenpinscher, monkey pinscher, monkey dog'
+p254
+aS'basenji'
+p255
+aS'pug, pug-dog'
+p256
+aS'Leonberg'
+p257
+aS'Newfoundland, Newfoundland dog'
+p258
+aS'Great Pyrenees'
+p259
+aS'Samoyed, Samoyede'
+p260
+aS'Pomeranian'
+p261
+aS'chow, chow chow'
+p262
+aS'keeshond'
+p263
+aS'Brabancon griffon'
+p264
+aS'Pembroke, Pembroke Welsh corgi'
+p265
+aS'Cardigan, Cardigan Welsh corgi'
+p266
+aS'toy poodle'
+p267
+aS'miniature poodle'
+p268
+aS'standard poodle'
+p269
+aS'Mexican hairless'
+p270
+aS'timber wolf, grey wolf, gray wolf, Canis lupus'
+p271
+aS'white wolf, Arctic wolf, Canis lupus tundrarum'
+p272
+aS'red wolf, maned wolf, Canis rufus, Canis niger'
+p273
+aS'coyote, prairie wolf, brush wolf, Canis latrans'
+p274
+aS'dingo, warrigal, warragal, Canis dingo'
+p275
+aS'dhole, Cuon alpinus'
+p276
+aS'African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus'
+p277
+aS'hyena, hyaena'
+p278
+aS'red fox, Vulpes vulpes'
+p279
+aS'kit fox, Vulpes macrotis'
+p280
+aS'Arctic fox, white fox, Alopex lagopus'
+p281
+aS'grey fox, gray fox, Urocyon cinereoargenteus'
+p282
+aS'tabby, tabby cat'
+p283
+aS'tiger cat'
+p284
+aS'Persian cat'
+p285
+aS'Siamese cat, Siamese'
+p286
+aS'Egyptian cat'
+p287
+aS'cougar, puma, catamount, mountain lion, painter, panther, Felis concolor'
+p288
+aS'lynx, catamount'
+p289
+aS'leopard, Panthera pardus'
+p290
+aS'snow leopard, ounce, Panthera uncia'
+p291
+aS'jaguar, panther, Panthera onca, Felis onca'
+p292
+aS'lion, king of beasts, Panthera leo'
+p293
+aS'tiger, Panthera tigris'
+p294
+aS'cheetah, chetah, Acinonyx jubatus'
+p295
+aS'brown bear, bruin, Ursus arctos'
+p296
+aS'American black bear, black bear, Ursus americanus, Euarctos americanus'
+p297
+aS'ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus'
+p298
+aS'sloth bear, Melursus ursinus, Ursus ursinus'
+p299
+aS'mongoose'
+p300
+aS'meerkat, mierkat'
+p301
+aS'tiger beetle'
+p302
+aS'ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle'
+p303
+aS'ground beetle, carabid beetle'
+p304
+aS'long-horned beetle, longicorn, longicorn beetle'
+p305
+aS'leaf beetle, chrysomelid'
+p306
+aS'dung beetle'
+p307
+aS'rhinoceros beetle'
+p308
+aS'weevil'
+p309
+aS'fly'
+p310
+aS'bee'
+p311
+aS'ant, emmet, pismire'
+p312
+aS'grasshopper, hopper'
+p313
+aS'cricket'
+p314
+aS'walking stick, walkingstick, stick insect'
+p315
+aS'cockroach, roach'
+p316
+aS'mantis, mantid'
+p317
+aS'cicada, cicala'
+p318
+aS'leafhopper'
+p319
+aS'lacewing, lacewing fly'
+p320
+aS"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+p321
+aS'damselfly'
+p322
+aS'admiral'
+p323
+aS'ringlet, ringlet butterfly'
+p324
+aS'monarch, monarch butterfly, milkweed butterfly, Danaus plexippus'
+p325
+aS'cabbage butterfly'
+p326
+aS'sulphur butterfly, sulfur butterfly'
+p327
+aS'lycaenid, lycaenid butterfly'
+p328
+aS'starfish, sea star'
+p329
+aS'sea urchin'
+p330
+aS'sea cucumber, holothurian'
+p331
+aS'wood rabbit, cottontail, cottontail rabbit'
+p332
+aS'hare'
+p333
+aS'Angora, Angora rabbit'
+p334
+aS'hamster'
+p335
+aS'porcupine, hedgehog'
+p336
+aS'fox squirrel, eastern fox squirrel, Sciurus niger'
+p337
+aS'marmot'
+p338
+aS'beaver'
+p339
+aS'guinea pig, Cavia cobaya'
+p340
+aS'sorrel'
+p341
+aS'zebra'
+p342
+aS'hog, pig, grunter, squealer, Sus scrofa'
+p343
+aS'wild boar, boar, Sus scrofa'
+p344
+aS'warthog'
+p345
+aS'hippopotamus, hippo, river horse, Hippopotamus amphibius'
+p346
+aS'ox'
+p347
+aS'water buffalo, water ox, Asiatic buffalo, Bubalus bubalis'
+p348
+aS'bison'
+p349
+aS'ram, tup'
+p350
+aS'bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis'
+p351
+aS'ibex, Capra ibex'
+p352
+aS'hartebeest'
+p353
+aS'impala, Aepyceros melampus'
+p354
+aS'gazelle'
+p355
+aS'Arabian camel, dromedary, Camelus dromedarius'
+p356
+aS'llama'
+p357
+aS'weasel'
+p358
+aS'mink'
+p359
+aS'polecat, fitch, foulmart, foumart, Mustela putorius'
+p360
+aS'black-footed ferret, ferret, Mustela nigripes'
+p361
+aS'otter'
+p362
+aS'skunk, polecat, wood pussy'
+p363
+aS'badger'
+p364
+aS'armadillo'
+p365
+aS'three-toed sloth, ai, Bradypus tridactylus'
+p366
+aS'orangutan, orang, orangutang, Pongo pygmaeus'
+p367
+aS'gorilla, Gorilla gorilla'
+p368
+aS'chimpanzee, chimp, Pan troglodytes'
+p369
+aS'gibbon, Hylobates lar'
+p370
+aS'siamang, Hylobates syndactylus, Symphalangus syndactylus'
+p371
+aS'guenon, guenon monkey'
+p372
+aS'patas, hussar monkey, Erythrocebus patas'
+p373
+aS'baboon'
+p374
+aS'macaque'
+p375
+aS'langur'
+p376
+aS'colobus, colobus monkey'
+p377
+aS'proboscis monkey, Nasalis larvatus'
+p378
+aS'marmoset'
+p379
+aS'capuchin, ringtail, Cebus capucinus'
+p380
+aS'howler monkey, howler'
+p381
+aS'titi, titi monkey'
+p382
+aS'spider monkey, Ateles geoffroyi'
+p383
+aS'squirrel monkey, Saimiri sciureus'
+p384
+aS'Madagascar cat, ring-tailed lemur, Lemur catta'
+p385
+aS'indri, indris, Indri indri, Indri brevicaudatus'
+p386
+aS'Indian elephant, Elephas maximus'
+p387
+aS'African elephant, Loxodonta africana'
+p388
+aS'lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens'
+p389
+aS'giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca'
+p390
+aS'barracouta, snoek'
+p391
+aS'eel'
+p392
+aS'coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch'
+p393
+aS'rock beauty, Holocanthus tricolor'
+p394
+aS'anemone fish'
+p395
+aS'sturgeon'
+p396
+aS'gar, garfish, garpike, billfish, Lepisosteus osseus'
+p397
+aS'lionfish'
+p398
+aS'puffer, pufferfish, blowfish, globefish'
+p399
+aS'abacus'
+p400
+aS'abaya'
+p401
+aS"academic gown, academic robe, judge's robe"
+p402
+aS'accordion, piano accordion, squeeze box'
+p403
+aS'acoustic guitar'
+p404
+aS'aircraft carrier, carrier, flattop, attack aircraft carrier'
+p405
+aS'airliner'
+p406
+aS'airship, dirigible'
+p407
+aS'altar'
+p408
+aS'ambulance'
+p409
+aS'amphibian, amphibious vehicle'
+p410
+aS'analog clock'
+p411
+aS'apiary, bee house'
+p412
+aS'apron'
+p413
+aS'ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin'
+p414
+aS'assault rifle, assault gun'
+p415
+aS'backpack, back pack, knapsack, packsack, rucksack, haversack'
+p416
+aS'bakery, bakeshop, bakehouse'
+p417
+aS'balance beam, beam'
+p418
+aS'balloon'
+p419
+aS'ballpoint, ballpoint pen, ballpen, Biro'
+p420
+aS'Band Aid'
+p421
+aS'banjo'
+p422
+aS'bannister, banister, balustrade, balusters, handrail'
+p423
+aS'barbell'
+p424
+aS'barber chair'
+p425
+aS'barbershop'
+p426
+aS'barn'
+p427
+aS'barometer'
+p428
+aS'barrel, cask'
+p429
+aS'barrow, garden cart, lawn cart, wheelbarrow'
+p430
+aS'baseball'
+p431
+aS'basketball'
+p432
+aS'bassinet'
+p433
+aS'bassoon'
+p434
+aS'bathing cap, swimming cap'
+p435
+aS'bath towel'
+p436
+aS'bathtub, bathing tub, bath, tub'
+p437
+aS'beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon'
+p438
+aS'beacon, lighthouse, beacon light, pharos'
+p439
+aS'beaker'
+p440
+aS'bearskin, busby, shako'
+p441
+aS'beer bottle'
+p442
+aS'beer glass'
+p443
+aS'bell cote, bell cot'
+p444
+aS'bib'
+p445
+aS'bicycle-built-for-two, tandem bicycle, tandem'
+p446
+aS'bikini, two-piece'
+p447
+aS'binder, ring-binder'
+p448
+aS'binoculars, field glasses, opera glasses'
+p449
+aS'birdhouse'
+p450
+aS'boathouse'
+p451
+aS'bobsled, bobsleigh, bob'
+p452
+aS'bolo tie, bolo, bola tie, bola'
+p453
+aS'bonnet, poke bonnet'
+p454
+aS'bookcase'
+p455
+aS'bookshop, bookstore, bookstall'
+p456
+aS'bottlecap'
+p457
+aS'bow'
+p458
+aS'bow tie, bow-tie, bowtie'
+p459
+aS'brass, memorial tablet, plaque'
+p460
+aS'brassiere, bra, bandeau'
+p461
+aS'breakwater, groin, groyne, mole, bulwark, seawall, jetty'
+p462
+aS'breastplate, aegis, egis'
+p463
+aS'broom'
+p464
+aS'bucket, pail'
+p465
+aS'buckle'
+p466
+aS'bulletproof vest'
+p467
+aS'bullet train, bullet'
+p468
+aS'butcher shop, meat market'
+p469
+aS'cab, hack, taxi, taxicab'
+p470
+aS'caldron, cauldron'
+p471
+aS'candle, taper, wax light'
+p472
+aS'cannon'
+p473
+aS'canoe'
+p474
+aS'can opener, tin opener'
+p475
+aS'cardigan'
+p476
+aS'car mirror'
+p477
+aS'carousel, carrousel, merry-go-round, roundabout, whirligig'
+p478
+aS"carpenter's kit, tool kit"
+p479
+aS'carton'
+p480
+aS'car wheel'
+p481
+aS'cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM'
+p482
+aS'cassette'
+p483
+aS'cassette player'
+p484
+aS'castle'
+p485
+aS'catamaran'
+p486
+aS'CD player'
+p487
+aS'cello, violoncello'
+p488
+aS'cellular telephone, cellular phone, cellphone, cell, mobile phone'
+p489
+aS'chain'
+p490
+aS'chainlink fence'
+p491
+aS'chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour'
+p492
+aS'chain saw, chainsaw'
+p493
+aS'chest'
+p494
+aS'chiffonier, commode'
+p495
+aS'chime, bell, gong'
+p496
+aS'china cabinet, china closet'
+p497
+aS'Christmas stocking'
+p498
+aS'church, church building'
+p499
+aS'cinema, movie theater, movie theatre, movie house, picture palace'
+p500
+aS'cleaver, meat cleaver, chopper'
+p501
+aS'cliff dwelling'
+p502
+aS'cloak'
+p503
+aS'clog, geta, patten, sabot'
+p504
+aS'cocktail shaker'
+p505
+aS'coffee mug'
+p506
+aS'coffeepot'
+p507
+aS'coil, spiral, volute, whorl, helix'
+p508
+aS'combination lock'
+p509
+aS'computer keyboard, keypad'
+p510
+aS'confectionery, confectionary, candy store'
+p511
+aS'container ship, containership, container vessel'
+p512
+aS'convertible'
+p513
+aS'corkscrew, bottle screw'
+p514
+aS'cornet, horn, trumpet, trump'
+p515
+aS'cowboy boot'
+p516
+aS'cowboy hat, ten-gallon hat'
+p517
+aS'cradle'
+p518
+aS'crane'
+p519
+aS'crash helmet'
+p520
+aS'crate'
+p521
+aS'crib, cot'
+p522
+aS'Crock Pot'
+p523
+aS'croquet ball'
+p524
+aS'crutch'
+p525
+aS'cuirass'
+p526
+aS'dam, dike, dyke'
+p527
+aS'desk'
+p528
+aS'desktop computer'
+p529
+aS'dial telephone, dial phone'
+p530
+aS'diaper, nappy, napkin'
+p531
+aS'digital clock'
+p532
+aS'digital watch'
+p533
+aS'dining table, board'
+p534
+aS'dishrag, dishcloth'
+p535
+aS'dishwasher, dish washer, dishwashing machine'
+p536
+aS'disk brake, disc brake'
+p537
+aS'dock, dockage, docking facility'
+p538
+aS'dogsled, dog sled, dog sleigh'
+p539
+aS'dome'
+p540
+aS'doormat, welcome mat'
+p541
+aS'drilling platform, offshore rig'
+p542
+aS'drum, membranophone, tympan'
+p543
+aS'drumstick'
+p544
+aS'dumbbell'
+p545
+aS'Dutch oven'
+p546
+aS'electric fan, blower'
+p547
+aS'electric guitar'
+p548
+aS'electric locomotive'
+p549
+aS'entertainment center'
+p550
+aS'envelope'
+p551
+aS'espresso maker'
+p552
+aS'face powder'
+p553
+aS'feather boa, boa'
+p554
+aS'file, file cabinet, filing cabinet'
+p555
+aS'fireboat'
+p556
+aS'fire engine, fire truck'
+p557
+aS'fire screen, fireguard'
+p558
+aS'flagpole, flagstaff'
+p559
+aS'flute, transverse flute'
+p560
+aS'folding chair'
+p561
+aS'football helmet'
+p562
+aS'forklift'
+p563
+aS'fountain'
+p564
+aS'fountain pen'
+p565
+aS'four-poster'
+p566
+aS'freight car'
+p567
+aS'French horn, horn'
+p568
+aS'frying pan, frypan, skillet'
+p569
+aS'fur coat'
+p570
+aS'garbage truck, dustcart'
+p571
+aS'gasmask, respirator, gas helmet'
+p572
+aS'gas pump, gasoline pump, petrol pump, island dispenser'
+p573
+aS'goblet'
+p574
+aS'go-kart'
+p575
+aS'golf ball'
+p576
+aS'golfcart, golf cart'
+p577
+aS'gondola'
+p578
+aS'gong, tam-tam'
+p579
+aS'gown'
+p580
+aS'grand piano, grand'
+p581
+aS'greenhouse, nursery, glasshouse'
+p582
+aS'grille, radiator grille'
+p583
+aS'grocery store, grocery, food market, market'
+p584
+aS'guillotine'
+p585
+aS'hair slide'
+p586
+aS'hair spray'
+p587
+aS'half track'
+p588
+aS'hammer'
+p589
+aS'hamper'
+p590
+aS'hand blower, blow dryer, blow drier, hair dryer, hair drier'
+p591
+aS'hand-held computer, hand-held microcomputer'
+p592
+aS'handkerchief, hankie, hanky, hankey'
+p593
+aS'hard disc, hard disk, fixed disk'
+p594
+aS'harmonica, mouth organ, harp, mouth harp'
+p595
+aS'harp'
+p596
+aS'harvester, reaper'
+p597
+aS'hatchet'
+p598
+aS'holster'
+p599
+aS'home theater, home theatre'
+p600
+aS'honeycomb'
+p601
+aS'hook, claw'
+p602
+aS'hoopskirt, crinoline'
+p603
+aS'horizontal bar, high bar'
+p604
+aS'horse cart, horse-cart'
+p605
+aS'hourglass'
+p606
+aS'iPod'
+p607
+aS'iron, smoothing iron'
+p608
+aS"jack-o'-lantern"
+p609
+aS'jean, blue jean, denim'
+p610
+aS'jeep, landrover'
+p611
+aS'jersey, T-shirt, tee shirt'
+p612
+aS'jigsaw puzzle'
+p613
+aS'jinrikisha, ricksha, rickshaw'
+p614
+aS'joystick'
+p615
+aS'kimono'
+p616
+aS'knee pad'
+p617
+aS'knot'
+p618
+aS'lab coat, laboratory coat'
+p619
+aS'ladle'
+p620
+aS'lampshade, lamp shade'
+p621
+aS'laptop, laptop computer'
+p622
+aS'lawn mower, mower'
+p623
+aS'lens cap, lens cover'
+p624
+aS'letter opener, paper knife, paperknife'
+p625
+aS'library'
+p626
+aS'lifeboat'
+p627
+aS'lighter, light, igniter, ignitor'
+p628
+aS'limousine, limo'
+p629
+aS'liner, ocean liner'
+p630
+aS'lipstick, lip rouge'
+p631
+aS'Loafer'
+p632
+aS'lotion'
+p633
+aS'loudspeaker, speaker, speaker unit, loudspeaker system, speaker system'
+p634
+aS"loupe, jeweler's loupe"
+p635
+aS'lumbermill, sawmill'
+p636
+aS'magnetic compass'
+p637
+aS'mailbag, postbag'
+p638
+aS'mailbox, letter box'
+p639
+aS'maillot'
+p640
+aS'maillot, tank suit'
+p641
+aS'manhole cover'
+p642
+aS'maraca'
+p643
+aS'marimba, xylophone'
+p644
+aS'mask'
+p645
+aS'matchstick'
+p646
+aS'maypole'
+p647
+aS'maze, labyrinth'
+p648
+aS'measuring cup'
+p649
+aS'medicine chest, medicine cabinet'
+p650
+aS'megalith, megalithic structure'
+p651
+aS'microphone, mike'
+p652
+aS'microwave, microwave oven'
+p653
+aS'military uniform'
+p654
+aS'milk can'
+p655
+aS'minibus'
+p656
+aS'miniskirt, mini'
+p657
+aS'minivan'
+p658
+aS'missile'
+p659
+aS'mitten'
+p660
+aS'mixing bowl'
+p661
+aS'mobile home, manufactured home'
+p662
+aS'Model T'
+p663
+aS'modem'
+p664
+aS'monastery'
+p665
+aS'monitor'
+p666
+aS'moped'
+p667
+aS'mortar'
+p668
+aS'mortarboard'
+p669
+aS'mosque'
+p670
+aS'mosquito net'
+p671
+aS'motor scooter, scooter'
+p672
+aS'mountain bike, all-terrain bike, off-roader'
+p673
+aS'mountain tent'
+p674
+aS'mouse, computer mouse'
+p675
+aS'mousetrap'
+p676
+aS'moving van'
+p677
+aS'muzzle'
+p678
+aS'nail'
+p679
+aS'neck brace'
+p680
+aS'necklace'
+p681
+aS'nipple'
+p682
+aS'notebook, notebook computer'
+p683
+aS'obelisk'
+p684
+aS'oboe, hautboy, hautbois'
+p685
+aS'ocarina, sweet potato'
+p686
+aS'odometer, hodometer, mileometer, milometer'
+p687
+aS'oil filter'
+p688
+aS'organ, pipe organ'
+p689
+aS'oscilloscope, scope, cathode-ray oscilloscope, CRO'
+p690
+aS'overskirt'
+p691
+aS'oxcart'
+p692
+aS'oxygen mask'
+p693
+aS'packet'
+p694
+aS'paddle, boat paddle'
+p695
+aS'paddlewheel, paddle wheel'
+p696
+aS'padlock'
+p697
+aS'paintbrush'
+p698
+aS"pajama, pyjama, pj's, jammies"
+p699
+aS'palace'
+p700
+aS'panpipe, pandean pipe, syrinx'
+p701
+aS'paper towel'
+p702
+aS'parachute, chute'
+p703
+aS'parallel bars, bars'
+p704
+aS'park bench'
+p705
+aS'parking meter'
+p706
+aS'passenger car, coach, carriage'
+p707
+aS'patio, terrace'
+p708
+aS'pay-phone, pay-station'
+p709
+aS'pedestal, plinth, footstall'
+p710
+aS'pencil box, pencil case'
+p711
+aS'pencil sharpener'
+p712
+aS'perfume, essence'
+p713
+aS'Petri dish'
+p714
+aS'photocopier'
+p715
+aS'pick, plectrum, plectron'
+p716
+aS'pickelhaube'
+p717
+aS'picket fence, paling'
+p718
+aS'pickup, pickup truck'
+p719
+aS'pier'
+p720
+aS'piggy bank, penny bank'
+p721
+aS'pill bottle'
+p722
+aS'pillow'
+p723
+aS'ping-pong ball'
+p724
+aS'pinwheel'
+p725
+aS'pirate, pirate ship'
+p726
+aS'pitcher, ewer'
+p727
+aS"plane, carpenter's plane, woodworking plane"
+p728
+aS'planetarium'
+p729
+aS'plastic bag'
+p730
+aS'plate rack'
+p731
+aS'plow, plough'
+p732
+aS"plunger, plumber's helper"
+p733
+aS'Polaroid camera, Polaroid Land camera'
+p734
+aS'pole'
+p735
+aS'police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria'
+p736
+aS'poncho'
+p737
+aS'pool table, billiard table, snooker table'
+p738
+aS'pop bottle, soda bottle'
+p739
+aS'pot, flowerpot'
+p740
+aS"potter's wheel"
+p741
+aS'power drill'
+p742
+aS'prayer rug, prayer mat'
+p743
+aS'printer'
+p744
+aS'prison, prison house'
+p745
+aS'projectile, missile'
+p746
+aS'projector'
+p747
+aS'puck, hockey puck'
+p748
+aS'punching bag, punch bag, punching ball, punchball'
+p749
+aS'purse'
+p750
+aS'quill, quill pen'
+p751
+aS'quilt, comforter, comfort, puff'
+p752
+aS'racer, race car, racing car'
+p753
+aS'racket, racquet'
+p754
+aS'radiator'
+p755
+aS'radio, wireless'
+p756
+aS'radio telescope, radio reflector'
+p757
+aS'rain barrel'
+p758
+aS'recreational vehicle, RV, R.V.'
+p759
+aS'reel'
+p760
+aS'reflex camera'
+p761
+aS'refrigerator, icebox'
+p762
+aS'remote control, remote'
+p763
+aS'restaurant, eating house, eating place, eatery'
+p764
+aS'revolver, six-gun, six-shooter'
+p765
+aS'rifle'
+p766
+aS'rocking chair, rocker'
+p767
+aS'rotisserie'
+p768
+aS'rubber eraser, rubber, pencil eraser'
+p769
+aS'rugby ball'
+p770
+aS'rule, ruler'
+p771
+aS'running shoe'
+p772
+aS'safe'
+p773
+aS'safety pin'
+p774
+aS'saltshaker, salt shaker'
+p775
+aS'sandal'
+p776
+aS'sarong'
+p777
+aS'sax, saxophone'
+p778
+aS'scabbard'
+p779
+aS'scale, weighing machine'
+p780
+aS'school bus'
+p781
+aS'schooner'
+p782
+aS'scoreboard'
+p783
+aS'screen, CRT screen'
+p784
+aS'screw'
+p785
+aS'screwdriver'
+p786
+aS'seat belt, seatbelt'
+p787
+aS'sewing machine'
+p788
+aS'shield, buckler'
+p789
+aS'shoe shop, shoe-shop, shoe store'
+p790
+aS'shoji'
+p791
+aS'shopping basket'
+p792
+aS'shopping cart'
+p793
+aS'shovel'
+p794
+aS'shower cap'
+p795
+aS'shower curtain'
+p796
+aS'ski'
+p797
+aS'ski mask'
+p798
+aS'sleeping bag'
+p799
+aS'slide rule, slipstick'
+p800
+aS'sliding door'
+p801
+aS'slot, one-armed bandit'
+p802
+aS'snorkel'
+p803
+aS'snowmobile'
+p804
+aS'snowplow, snowplough'
+p805
+aS'soap dispenser'
+p806
+aS'soccer ball'
+p807
+aS'sock'
+p808
+aS'solar dish, solar collector, solar furnace'
+p809
+aS'sombrero'
+p810
+aS'soup bowl'
+p811
+aS'space bar'
+p812
+aS'space heater'
+p813
+aS'space shuttle'
+p814
+aS'spatula'
+p815
+aS'speedboat'
+p816
+aS"spider web, spider's web"
+p817
+aS'spindle'
+p818
+aS'sports car, sport car'
+p819
+aS'spotlight, spot'
+p820
+aS'stage'
+p821
+aS'steam locomotive'
+p822
+aS'steel arch bridge'
+p823
+aS'steel drum'
+p824
+aS'stethoscope'
+p825
+aS'stole'
+p826
+aS'stone wall'
+p827
+aS'stopwatch, stop watch'
+p828
+aS'stove'
+p829
+aS'strainer'
+p830
+aS'streetcar, tram, tramcar, trolley, trolley car'
+p831
+aS'stretcher'
+p832
+aS'studio couch, day bed'
+p833
+aS'stupa, tope'
+p834
+aS'submarine, pigboat, sub, U-boat'
+p835
+aS'suit, suit of clothes'
+p836
+aS'sundial'
+p837
+aS'sunglass'
+p838
+aS'sunglasses, dark glasses, shades'
+p839
+aS'sunscreen, sunblock, sun blocker'
+p840
+aS'suspension bridge'
+p841
+aS'swab, swob, mop'
+p842
+aS'sweatshirt'
+p843
+aS'swimming trunks, bathing trunks'
+p844
+aS'swing'
+p845
+aS'switch, electric switch, electrical switch'
+p846
+aS'syringe'
+p847
+aS'table lamp'
+p848
+aS'tank, army tank, armored combat vehicle, armoured combat vehicle'
+p849
+aS'tape player'
+p850
+aS'teapot'
+p851
+aS'teddy, teddy bear'
+p852
+aS'television, television system'
+p853
+aS'tennis ball'
+p854
+aS'thatch, thatched roof'
+p855
+aS'theater curtain, theatre curtain'
+p856
+aS'thimble'
+p857
+aS'thresher, thrasher, threshing machine'
+p858
+aS'throne'
+p859
+aS'tile roof'
+p860
+aS'toaster'
+p861
+aS'tobacco shop, tobacconist shop, tobacconist'
+p862
+aS'toilet seat'
+p863
+aS'torch'
+p864
+aS'totem pole'
+p865
+aS'tow truck, tow car, wrecker'
+p866
+aS'toyshop'
+p867
+aS'tractor'
+p868
+aS'trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi'
+p869
+aS'tray'
+p870
+aS'trench coat'
+p871
+aS'tricycle, trike, velocipede'
+p872
+aS'trimaran'
+p873
+aS'tripod'
+p874
+aS'triumphal arch'
+p875
+aS'trolleybus, trolley coach, trackless trolley'
+p876
+aS'trombone'
+p877
+aS'tub, vat'
+p878
+aS'turnstile'
+p879
+aS'typewriter keyboard'
+p880
+aS'umbrella'
+p881
+aS'unicycle, monocycle'
+p882
+aS'upright, upright piano'
+p883
+aS'vacuum, vacuum cleaner'
+p884
+aS'vase'
+p885
+aS'vault'
+p886
+aS'velvet'
+p887
+aS'vending machine'
+p888
+aS'vestment'
+p889
+aS'viaduct'
+p890
+aS'violin, fiddle'
+p891
+aS'volleyball'
+p892
+aS'waffle iron'
+p893
+aS'wall clock'
+p894
+aS'wallet, billfold, notecase, pocketbook'
+p895
+aS'wardrobe, closet, press'
+p896
+aS'warplane, military plane'
+p897
+aS'washbasin, handbasin, washbowl, lavabo, wash-hand basin'
+p898
+aS'washer, automatic washer, washing machine'
+p899
+aS'water bottle'
+p900
+aS'water jug'
+p901
+aS'water tower'
+p902
+aS'whiskey jug'
+p903
+aS'whistle'
+p904
+aS'wig'
+p905
+aS'window screen'
+p906
+aS'window shade'
+p907
+aS'Windsor tie'
+p908
+aS'wine bottle'
+p909
+aS'wing'
+p910
+aS'wok'
+p911
+aS'wooden spoon'
+p912
+aS'wool, woolen, woollen'
+p913
+aS'worm fence, snake fence, snake-rail fence, Virginia fence'
+p914
+aS'wreck'
+p915
+aS'yawl'
+p916
+aS'yurt'
+p917
+aS'web site, website, internet site, site'
+p918
+aS'comic book'
+p919
+aS'crossword puzzle, crossword'
+p920
+aS'street sign'
+p921
+aS'traffic light, traffic signal, stoplight'
+p922
+aS'book jacket, dust cover, dust jacket, dust wrapper'
+p923
+aS'menu'
+p924
+aS'plate'
+p925
+aS'guacamole'
+p926
+aS'consomme'
+p927
+aS'hot pot, hotpot'
+p928
+aS'trifle'
+p929
+aS'ice cream, icecream'
+p930
+aS'ice lolly, lolly, lollipop, popsicle'
+p931
+aS'French loaf'
+p932
+aS'bagel, beigel'
+p933
+aS'pretzel'
+p934
+aS'cheeseburger'
+p935
+aS'hotdog, hot dog, red hot'
+p936
+aS'mashed potato'
+p937
+aS'head cabbage'
+p938
+aS'broccoli'
+p939
+aS'cauliflower'
+p940
+aS'zucchini, courgette'
+p941
+aS'spaghetti squash'
+p942
+aS'acorn squash'
+p943
+aS'butternut squash'
+p944
+aS'cucumber, cuke'
+p945
+aS'artichoke, globe artichoke'
+p946
+aS'bell pepper'
+p947
+aS'cardoon'
+p948
+aS'mushroom'
+p949
+aS'Granny Smith'
+p950
+aS'strawberry'
+p951
+aS'orange'
+p952
+aS'lemon'
+p953
+aS'fig'
+p954
+aS'pineapple, ananas'
+p955
+aS'banana'
+p956
+aS'jackfruit, jak, jack'
+p957
+aS'custard apple'
+p958
+aS'pomegranate'
+p959
+aS'hay'
+p960
+aS'carbonara'
+p961
+aS'chocolate sauce, chocolate syrup'
+p962
+aS'dough'
+p963
+aS'meat loaf, meatloaf'
+p964
+aS'pizza, pizza pie'
+p965
+aS'potpie'
+p966
+aS'burrito'
+p967
+aS'red wine'
+p968
+aS'espresso'
+p969
+aS'cup'
+p970
+aS'eggnog'
+p971
+aS'alp'
+p972
+aS'bubble'
+p973
+aS'cliff, drop, drop-off'
+p974
+aS'coral reef'
+p975
+aS'geyser'
+p976
+aS'lakeside, lakeshore'
+p977
+aS'promontory, headland, head, foreland'
+p978
+aS'sandbar, sand bar'
+p979
+aS'seashore, coast, seacoast, sea-coast'
+p980
+aS'valley, vale'
+p981
+aS'volcano'
+p982
+aS'ballplayer, baseball player'
+p983
+aS'groom, bridegroom'
+p984
+aS'scuba diver'
+p985
+aS'rapeseed'
+p986
+aS'daisy'
+p987
+aS"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+p988
+aS'corn'
+p989
+aS'acorn'
+p990
+aS'hip, rose hip, rosehip'
+p991
+aS'buckeye, horse chestnut, conker'
+p992
+aS'coral fungus'
+p993
+aS'agaric'
+p994
+aS'gyromitra'
+p995
+aS'stinkhorn, carrion fungus'
+p996
+aS'earthstar'
+p997
+aS'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa'
+p998
+aS'bolete'
+p999
+aS'ear, spike, capitulum'
+p1000
+aS'toilet tissue, toilet paper, bathroom tissue'
+p1001
+a.
