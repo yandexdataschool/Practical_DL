@@ -1,0 +1,376 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Generating human faces with Adversarial Networks\n",
+    "<img src=\"https://www.strangerdimensions.com/wp-content/uploads/2013/11/reception-robot.jpg\" width=320>\n",
+    "This time we'll train a neural net to generate plausible human faces in all their subtlty: appearance, expression, accessories, etc. 'Cuz when us machines gonna take over Earth, there won't be any more faces left. We want to preserve this data for future iterations. Yikes...\n",
+    "\n",
+    "Based on Based on https://github.com/Lasagne/Recipes/pull/94 .\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import matplotlib.pyplot as plt\n",
+    "%matplotlib inline\n",
+    "import numpy as np\n",
+    "plt.rcParams.update({'axes.titlesize': 'small'})\n",
+    "\n",
+    "from sklearn.datasets import load_digits\n",
+    "#The following line fetches you two datasets: images, usable for autoencoder training and attributes.\n",
+    "#Those attributes will be required for the final part of the assignment (applying smiles), so please keep them in mind\n",
+    "from lfw_dataset import fetch_lfw_dataset\n",
+    "data,attrs = fetch_lfw_dataset(dimx=36,dimy=36)\n",
+    "\n",
+    "#preprocess faces\n",
+    "data = np.float32(data)/255.\n",
+    "\n",
+    "IMG_SHAPE = data.shape[1:]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "#print random image\n",
+    "plt.imshow(data[np.random.randint(data.shape[0])], cmap=\"gray\", interpolation=\"none\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Generative adversarial nets 101\n",
+    "\n",
+    "<img src=\"https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/model.png\" width=320px height=240px>\n",
+    "\n",
+    "Deep learning is simple, isn't it? \n",
+    "* build some network that generates the face (small image)\n",
+    "* make up a __measure__ of __how good that face is__\n",
+    "* optimize with gradient descent :)\n",
+    "\n",
+    "\n",
+    "The only problem is: how can we engineers tell well-generated faces from bad? And i bet you we won't ask a designer for help. \n",
+    "\n",
+    "__If we can't tell good faces from bad, we delegate it to yet another neural network!__\n",
+    "\n",
+    "That makes the two of them:\n",
+    "* __G__enerator - takes random noize for inspiration and tries to generate a face sample. \n",
+    "  * Let's call him __G__(z), where z is a gaussian noize.\n",
+    "* __D__iscriminator - takes a face sample and tries to tell if it's great or fake. \n",
+    "  * Predicts the probability of input image being a __real face__\n",
+    "  * Let's call him __D__(x), x being an image.\n",
+    "  * __D(x)__ is a predition for real image and __D(G(z))__ is prediction for the face made by generator.\n",
+    "\n",
+    "Before we dive into training them, let's construct the two networks."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "import tensorflow as tf\n",
+    "import keras\n",
+    "from keras.models import Sequential\n",
+    "from keras import layers as L\n",
+    "\n",
+    "s = keras.backend.get_session()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true,
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "CODE_SIZE = 256\n",
+    "\n",
+    "generator = Sequential()\n",
+    "generator.add(L.InputLayer([CODE_SIZE],name='noise'))\n",
+    "generator.add(L.Dense(10*8*8, activation='elu'))\n",
+    "\n",
+    "generator.add(L.Reshape((8,8,10)))\n",
+    "generator.add(L.Deconv2D(64,kernel_size=(5,5),activation='elu'))\n",
+    "generator.add(L.Deconv2D(64,kernel_size=(5,5),activation='elu'))\n",
+    "generator.add(L.UpSampling2D(size=(2,2)))\n",
+    "generator.add(L.Deconv2D(32,kernel_size=3,activation='elu'))\n",
+    "generator.add(L.Deconv2D(32,kernel_size=3,activation='elu'))\n",
+    "generator.add(L.Deconv2D(32,kernel_size=3,activation='elu'))\n",
+    "\n",
+    "generator.add(L.Conv2D(3,kernel_size=3,activation=None))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "assert generator.output_shape[1:] == IMG_SHAPE, \"generator must output an image of shape %s, but instead it produces %s\"%(IMG_SHAPE,generator.output_shape[1:])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Discriminator\n",
+    "* Discriminator is your usual convolutional network with interlooping convolution and pooling layers\n",
+    "* The network does not include dropout/batchnorm to avoid learning complications.\n",
+    "* We also regularize the pre-output layer to prevent discriminator from being too certain."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "discriminator = Sequential()\n",
+    "\n",
+    "discriminator.add(L.InputLayer(IMG_SHAPE))\n",
+    "\n",
+    "<build discriminator body>\n",
+    "\n",
+    "discriminator.add(L.Flatten())\n",
+    "discriminator.add(L.Dense(256,activation='tanh'))\n",
+    "discriminator.add(L.Dense(2,activation=tf.nn.log_softmax))\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Training\n",
+    "\n",
+    "We train the two networks concurrently:\n",
+    "* Train __discriminator__ to better distinguish real data from __current__ generator\n",
+    "* Train __generator__ to make discriminator think generator is real\n",
+    "* Since discriminator is a differentiable neural network, we train both with gradient descent.\n",
+    "\n",
+    "![img](https://s24.postimg.org/cw4nognxx/gan.png)\n",
+    "\n",
+    "Training is done iteratively until discriminator is no longer able to find the difference (or until you run out of patience).\n",
+    "\n",
+    "\n",
+    "### Tricks:\n",
+    "* Regularize discriminator output weights to prevent explosion\n",
+    "* Train generator with __adam__ to speed up training. Discriminator trains with SGD to avoid problems with momentum.\n",
+    "* More: https://github.com/soumith/ganhacks\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "noise = tf.placeholder('float32',[None,CODE_SIZE])\n",
+    "real_data = tf.placeholder('float32',[None,]+list(IMG_SHAPE))\n",
+    "\n",
+    "logp_real = discriminator(real_data)\n",
+    "\n",
+    "generated_data = <gen(noise)>\n",
+    "\n",
+    "logp_gen = <log P(real | gen(noise))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "########################\n",
+    "#discriminator training#\n",
+    "########################\n",
+    "\n",
+    "d_loss = -tf.reduce_mean(logp_real[:,1] + logp_gen[:,0])\n",
+    "\n",
+    "#regularize\n",
+    "d_loss += tf.reduce_mean(discriminator.layers[-1].kernel**2)\n",
+    "\n",
+    "#optimize\n",
+    "disc_optimizer =  tf.train.GradientDescentOptimizer(1e-3).minimize(d_loss,var_list=discriminator.trainable_weights)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "########################\n",
+    "###generator training###\n",
+    "########################\n",
+    "\n",
+    "g_loss = <generator loss>\n",
+    "\n",
+    "gen_optimizer = tf.train.AdamOptimizer(1e-4).minimize(g_loss,var_list=generator.trainable_weights)\n",
+    "\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "s.run(tf.global_variables_initializer())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Auxilary functions\n",
+    "Here we define a few helper functions that draw current data distributions and sample training batches."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": [
+    "def sample_noise_batch(bsize):\n",
+    "    return np.random.normal(size=(bsize, CODE_SIZE)).astype('float32')\n",
+    "\n",
+    "def sample_data_batch(bsize):\n",
+    "    idxs = np.random.choice(np.arange(data.shape[0]), size=bsize)\n",
+    "    return data[idxs]\n",
+    "\n",
+    "def sample_images(nrow,ncol, sharp=False):\n",
+    "    images = generator.predict(sample_noise_batch(bsize=nrow*ncol))\n",
+    "    if np.var(images)!=0:\n",
+    "        images = images.clip(np.min(data),np.max(data))\n",
+    "    for i in range(nrow*ncol):\n",
+    "        plt.subplot(nrow,ncol,i+1)\n",
+    "        if sharp:\n",
+    "            plt.imshow(images[i].reshape(IMG_SHAPE),cmap=\"gray\", interpolation=\"none\")\n",
+    "        else:\n",
+    "            plt.imshow(images[i].reshape(IMG_SHAPE),cmap=\"gray\")\n",
+    "    plt.show()\n",
+    "\n",
+    "def sample_probas(bsize):\n",
+    "    plt.title('Generated vs real data')\n",
+    "    plt.hist(np.exp(discriminator.predict(sample_data_batch(bsize)))[:,1],\n",
+    "             label='D(x)', alpha=0.5,range=[0,1])\n",
+    "    plt.hist(np.exp(discriminator.predict(generator.predict(sample_noise_batch(bsize))))[:,1],\n",
+    "             label='D(G(z))',alpha=0.5,range=[0,1])\n",
+    "    plt.legend(loc='best')\n",
+    "    plt.show()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Training\n",
+    "Main loop.\n",
+    "We just train generator and discriminator in a loop and draw results once every N iterations."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true,
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "from IPython import display\n",
+    "from tqdm import tnrange\n",
+    "\n",
+    "for epoch in tnrange(50000):\n",
+    "    \n",
+    "    feed_dict = {\n",
+    "        real_data:sample_data_batch(100),\n",
+    "        noise:sample_noise_batch(100)\n",
+    "    }\n",
+    "    \n",
+    "    for i in range(5):\n",
+    "        s.run(disc_optimizer,feed_dict)\n",
+    "    \n",
+    "    s.run(gen_optimizer,feed_dict)\n",
+    "    \n",
+    "    if epoch %100==0:\n",
+    "        display.clear_output(wait=True)\n",
+    "        sample_images(2,3,True)\n",
+    "        sample_probas(1000)\n",
+    "        "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true,
+    "scrolled": false
+   },
+   "outputs": [],
+   "source": [
+    "#The network was trained for about 15k iterations. \n",
+    "#Training for longer yields MUCH better results\n",
+    "plt.figure(figsize=[16,24])\n",
+    "sample_images(16,8)"
+   ]
+  }
+ ],
+ "metadata": {
+  "anaconda-cloud": {},
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
+}
