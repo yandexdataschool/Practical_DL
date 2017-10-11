@@ -12,4 +12,5 @@ __[Slides]__ - [here](https://yadi.sk/i/eyCRxQHx3NH2dg)
 
 
 ### Assignment
-todo
+Your goal for this week is to use pre-trained convolutuional network from the model zoo to classify cats versus dogs.
+As usual, follow the instructions in seminar_lasagne or seminar_tf depending on your framework.
