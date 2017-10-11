@@ -8,3 +8,5 @@ __[Slides]__ - [here](https://yadi.sk/i/pcBpCQL_3NUKxD)
 * Variational Autoencoders - [video](https://www.youtube.com/watch?v=P78QYjWh5sM)
 * Domain adaptation with adversarial networks - [arxiv](https://arxiv.org/abs/1409.7495)
 * Unsupervised relation learning with CycleGan - [arxiv](https://arxiv.org/abs/1703.10593)
+* Neural doodle (art style transfer) - [likemo.net](http://likemo.net/)
+
