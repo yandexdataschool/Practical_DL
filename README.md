@@ -48,10 +48,12 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week3__ Advanced computer vision
   - [ ] Lecture: Computer vision beyond image classification. Segmentation, object detection, identification. Model zoo & fine-tuning
   - [ ] Seminar: Model zoo. Siamese nets for identification.
+     - [ ] HW due 15.10.17, 23.59
   
 - __week4__ Unsupervised & generative methods
   - [ ] Lecture: Autoencoders, Generative Adversarial Networks
   - [ ] Seminar: Generative Adversarial Networks. [hopefully] Art Style Transfer by Dmitry Ulyanov
+     - [ ] HW due 29.10.17, 23.59
 
 - __week5__ Deep learning for natural language processing 101
   - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
