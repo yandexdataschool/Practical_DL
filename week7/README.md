@@ -1,4 +1,4 @@
-__[slides]__(https://yadi.sk/i/mh1SOEKp3PXfuU)
+__[slides](https://yadi.sk/i/mh1SOEKp3PXfuU)__
 
 
 ### Materials
@@ -11,6 +11,8 @@ __[slides]__(https://yadi.sk/i/mh1SOEKp3PXfuU)
 - Convolutional + attentive seq2seq - [arxiv](https://arxiv.org/pdf/1705.03122.pdf)
 - Recurrent dropout: [variational](https://arxiv.org/abs/1512.05287), [gate-specific](https://arxiv.org/abs/1603.05118)
 - Normalization: [gate-specific](https://arxiv.org/abs/1603.09025), [layer-norm](https://arxiv.org/abs/1607.06450)
+- Improved softmax operators: [post](http://sebastianruder.com/word-embeddings-softmax/index.html)
+- Better tokenization for language-related stuff: [arxiv](https://arxiv.org/abs/1508.07909), [code](https://github.com/rsennrich/subword-nmt)
 
 ### Homework assignment
 
@@ -19,4 +21,4 @@ There's a main notebook about image captioning (both theano and tf) that's worth
 Helper urls:
 - MS COCO challenge: http://mscoco.org/dataset/#overview
 - Im2latex: https://openai.com/requests-for-research/#im2latex
-- Improved softmax operators: http://sebastianruder.com/word-embeddings-softmax/index.html
+
