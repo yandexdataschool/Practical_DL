@@ -16,7 +16,7 @@ __[slides](https://yadi.sk/i/mh1SOEKp3PXfuU)__
 
 ### Homework assignment
 
-There's a main notebook about image captioning (both theano and tf) that's worth 10 points and also an optional attention tutorial (theano only), worth 3 points if submitted.
+There's a main notebook about image captioning (both theano and tf) that's worth 10 points and also an optional attention tutorial (theano only) worth 3 points if submitted.
 
 Helper urls:
 - MS COCO challenge: http://mscoco.org/dataset/#overview
