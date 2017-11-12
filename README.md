@@ -68,9 +68,9 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
   - [ ] Lecture: Sequence labeling & applications. Seq2seq & applications. Attention. Batchnorm and dropout for RNN.
   - [ ] Seminar: Image Captioning
 
-- __week8__: Deep reinforcement learning
-  - [ ] Lecture: Reinforcement learning applications. Policy gradient. REINFORCE.
-  - [ ] Seminar: REINFORCE agent with deep neural net policy for RL problems
+- __week8__: Deep embedding learning
+  - [ ] Lecture: Basics of deep embedding learning, losses, sampling techinuques.
+  - [ ] Seminar: Question answering system
   
 - __week9__: Bayesian deep learning
   - [ ] Lecture: Bayesian vs Frequentist idea of probability. Bayesian methods around you. Variational Autoencoder. Bayesian Neural Network.
