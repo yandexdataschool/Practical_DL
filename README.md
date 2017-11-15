@@ -58,7 +58,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week5__ Deep learning for natural language processing 101
   - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
   - [ ] Seminar: Word embeddings. Text convolutions for salary prediction.
-     - [ ] HW due 12.11.17, 23.59
+     - [ ] HW due 16.11.17, 23:59
   
 - __week6__ Recurrent neural networks
   - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
@@ -68,9 +68,9 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
   - [ ] Lecture: Sequence labeling & applications. Seq2seq & applications. Attention. Batchnorm and dropout for RNN.
   - [ ] Seminar: Image Captioning
 
-- __week8__: Deep reinforcement learning
-  - [ ] Lecture: Reinforcement learning applications. Policy gradient. REINFORCE.
-  - [ ] Seminar: REINFORCE agent with deep neural net policy for RL problems
+- __week8__: Deep embedding learning
+  - [ ] Lecture: Basics of deep embedding learning, losses, sampling techinuques.
+  - [ ] Seminar: Question answering system
   
 - __week9__: Bayesian deep learning
   - [ ] Lecture: Bayesian vs Frequentist idea of probability. Bayesian methods around you. Variational Autoencoder. Bayesian Neural Network.
