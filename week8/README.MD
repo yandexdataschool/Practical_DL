@@ -9,3 +9,8 @@ We could only find a few related materials in either language.
 * English lecture: advanced NLP applications, subword units, DSSM - [video](https://www.youtube.com/watch?v=D4JnoOAihII)
 * Siamee networks explained - [url](https://www.quora.com/What-are-Siamese-neural-networks-what-applications-are-they-good-for-and-why) (see first reply by Pond-Premtoon)
 * DSSM materials by Microsoft Research - [url](https://www.microsoft.com/en-us/research/project/dssm/)
+
+
+## Practice
+
+As usual, pick a notebook for your framework and follow instructions from there.
