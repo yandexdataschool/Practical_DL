@@ -71,6 +71,7 @@ Everyone who wants to attend the course ping jheuristic@yandex-team.ru
 - __week8__: Deep embedding learning
   - [ ] Lecture: Basics of deep embedding learning, losses, sampling techinuques.
   - [ ] Seminar: Question answering system
+    - [ ] HW due 26.11.17, 23:59
   
 - __week9__: Bayesian deep learning
   - [ ] Lecture: Bayesian vs Frequentist idea of probability. Bayesian methods around you. Variational Autoencoder. Bayesian Neural Network.
