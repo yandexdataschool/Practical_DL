@@ -101,9 +101,9 @@ def preprocess(im):
     # Resize so smallest dim = 224, preserving aspect ratio
     h, w, _ = im.shape
     if h < w:
-        im = skimage.transform.resize(im, (224, w*224/h), preserve_range=True)
+        im = skimage.transform.resize(im, (224, w*224//h), preserve_range=True)
     else:
-        im = skimage.transform.resize(im, (h*224/w, 224), preserve_range=True)
+        im = skimage.transform.resize(im, (h*224//w, 224), preserve_range=True)
 
     # Central crop to 224x224
     h, w, _ = im.shape
