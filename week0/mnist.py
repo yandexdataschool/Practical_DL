@@ -6,7 +6,7 @@ import numpy as np
 
 __doc__="""taken from https://github.com/Lasagne/Lasagne/blob/master/examples/mnist.py"""
 
-def load_dataset():
+def load_dataset(flatten=False):
     # We first define a download function, supporting both Python 2 and 3.
     if sys.version_info[0] == 2:
         from urllib import urlretrieve
@@ -53,6 +53,12 @@ def load_dataset():
     # We reserve the last 10000 training examples for validation.
     X_train, X_val = X_train[:-10000], X_train[-10000:]
     y_train, y_val = y_train[:-10000], y_train[-10000:]
+
+    if flatten:
+        X_train = X_train.reshape([-1, 28**2])
+        X_val = X_val.reshape([-1, 28**2])
+        X_test = X_test.reshape([-1, 28**2])
+
 
     # We just return all the arrays in order, as expected in main().
     # (It doesn't matter how we do this as long as we can read them again.)
