@@ -5,7 +5,7 @@ This repo supplements Deep Learning course by Victor Lempitsky, taught at YSDA a
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
 # General info
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/tree/master/master)
+* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
 * Telegram [chat room](https://t.me/joinchat/CDFcMUhjSRBcgTwqsenWUA) (russian).
 * YSDA deadlines & admin stuff can be found at the YSDA course wiki (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
