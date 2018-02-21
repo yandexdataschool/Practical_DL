@@ -29,8 +29,6 @@ RUN pip install --upgrade keras
 RUN pip install --upgrade https://github.com/Theano/Theano/archive/master.zip
 RUN pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 RUN pip install --upgrade https://github.com/yandexdataschool/AgentNet/archive/master.zip
-RUN pip install gym_pull
-RUN pip install ppaquette-gym-doom
 
 
 
