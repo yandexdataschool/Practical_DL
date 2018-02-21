@@ -7,13 +7,13 @@
 * Deep learning frameworks (english) - [video](https://www.youtube.com/watch?v=Vf_-OkqbwPo)
 
 
-## More materials
+## More on adaptive optimization
 * [Cool interactive demo of momentum](http://distill.pub/2017/momentum/)
 * [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
 * [RMSPROP video](https://www.youtube.com/watch?v=defQQqkXEfE)
 
 
-## More materials
+## More on DL frameworks
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
   - A lecture on activations, recap of adaptive SGD and dropout (karpathy) - [video](https://www.youtube.com/watch?v=KaR4lIdI1MQ)
   - http://cs231n.github.io/understanding-cnn/
