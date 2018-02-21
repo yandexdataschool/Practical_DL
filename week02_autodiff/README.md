@@ -16,10 +16,7 @@
 ## More on DL frameworks
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
   - A lecture on activations, recap of adaptive SGD and dropout (karpathy) - [video](https://www.youtube.com/watch?v=KaR4lIdI1MQ)
-  - http://cs231n.github.io/understanding-cnn/
   - [a deep learning neophite cheat sheet](http://www.kdnuggets.com/2016/03/must-know-tips-deep-learning-part-1.html)
-  - [more stuff for vision](https://bavm2013.splashthat.com/img/events/46439/assets/34a7.ranzato.pdf)
-  - a [CNN trainer in a browser](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
   - [bonus video] Deep learning philosophy: [our humble take](https://www.youtube.com/watch?v=9qyE1Ev1Xdw) (english)
   - [reading] on weight initialization: [blog post](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
   - [reading] pretty much all the module 1 of http://cs231n.github.io/
