@@ -68,11 +68,11 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - lectures 1-11
+- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - all main track lectures (1-11)
 - [Victor Yurchenko](https://github.com/simflin) - intro notebooks, admin stuff
 - [Vadim Lebedev](https://github.com/vadim-v-lebedev) - notebooks, admin stuff
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - notebooks on generative models & autoencoders
-- [Fedor Ratnikov](https://github.com/justheuristic/) - pytorch & nlp notebooks, lecture 12
+- [Fedor Ratnikov](https://github.com/justheuristic/) - pytorch & nlp notebooks, one bonus lecture
 - [Oleg Vasilev](https://github.com/Omrigan) - notebooks, technical issue resolution
 - [Arseniy Ashukha](https://github.com/ars-ashuha) - image captioning materials
 - [Mikhail Khalman](https://github.com/mihaha) - variational autoencoder materials
