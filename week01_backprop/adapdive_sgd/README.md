@@ -9,7 +9,6 @@
 * [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
 * [RMSPROP video](https://www.youtube.com/watch?v=defQQqkXEfE)
 
-
 ## Practice
 
 As usual, go to the only notebook in this folder (`adaptive_sgd.ipynb`) and follow instructions from there.
