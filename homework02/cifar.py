@@ -22,12 +22,16 @@ def unpickle(file):
     return dict
 
 
-def download_cifar(path,
+
+
+def download_cifar10(path,
                      url='https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz',
                      tarname='cifar-10-python.tar.gz',):
     import tarfile
     if not os.path.exists(path):
         os.mkdir(path)
+    
+        
 
     urlretrieve(url, os.path.join(path,tarname))
     tfile = tarfile.open(os.path.join(path,tarname))
@@ -41,9 +45,7 @@ def load_cifar10(data_path=".",channels_last=False,test_size=0.2,random_state=13
     
     if not os.path.exists(test_path) or not all(list(map(os.path.exists, train_paths))):
         print ("Dataset not found. Downloading...")
-        download_cifar(data_path, 
-                       url='https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz',
-                       tarname='cifar-10-python.tar.gz')
+        download_cifar10(data_path)
 
     train_batches = list(map(unpickle,train_paths))
     test_batch = unpickle(test_path)
@@ -68,35 +70,3 @@ def load_cifar10(data_path=".",channels_last=False,test_size=0.2,random_state=13
     
     return X_train,y_train,X_val,y_val,X_test,y_test
     
-
-def load_cifar100(data_path=".", target_classes=(13, 37), channels_last=False, test_size=0.2, random_state=1337):
-    test_path = os.path.join(data_path, "cifar-100-python/test")
-    train_path = os.path.join(data_path, "cifar-100-python/train")
-    
-    if not os.path.exists(test_path) or not os.path.exists(train_path):
-        print ("Dataset not found. Downloading...")
-        download_cifar(path, 
-                      url="https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz", 
-                      tarname="cifar-100-python.tar.gz")
-
-    
-    train_batch = unpickle(train_path)
-    test_batch = unpickle(test_path)
-    X = train_batch['data'].reshape((-1, 3, 32, 32)).astype('float32') / 255
-    y = np.asarray(train_batch['fine_labels']).astype('int32')
-    
-    target_classes = np.asarray(list(target_classes))
-    train_filter = np.where(np.isin(y, test_elements=target_classes))[0]
-    X = X[train_filter, ...]
-    y = y[train_filter]
-    X_train,X_val,y_train,y_val = train_test_split(X,y,
-                                                   test_size=0.2,
-                                                   random_state=1337)
-    X_test = test_batch['data'].reshape(-1, 3, 32, 32).astype('float32') / 255
-    y_test = np.asarray(test_batch['fine_labels']).astype('int32')
-    
-    test_filter = np.where(np.isin(y_test, test_elements=target_classes))[0]
-    X_test = X_test[test_filter, ...]
-    y_test = y_test[test_filter]
-    
-    return X_train, y_train, X_val, y_val, X_test, y_test
