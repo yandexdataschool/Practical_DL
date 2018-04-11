@@ -1,5 +1,5 @@
 ## Materials
-* [Slides](https://yadi.sk/i/-Iqdhg483GDyoN)
+* [Slides](https://yadi.sk/i/Qjn4U0Np3UKL5f)
 * CS231 lecture on RNNs - https://www.youtube.com/watch?v=iX5V1WpxxkY
 * Our [lecture](https://yadi.sk/i/XHmT5hO53GcCKV), [seminar](https://yadi.sk/i/19twHESN3GcGKQ)
 * [alternative] Brief lecture on RNN by nervana - https://www.youtube.com/watch?v=Ukgii7Yd_cU
@@ -14,6 +14,9 @@
 * CS231 rnn [assignment](http://cs231n.github.io/assignments2016/assignment3/)
 * "Deep models for text and sequences" section of [this course](https://www.udacity.com/course/deep-learning--ud730)
 
-# Homework description
+# Practice
 
-This assignment consists of two parts: `seminar_*.ipynb` and `part2_*.ipynb` worth 5 points each. As usual, we have both theano+lasagne and tensorflow+keras versions.
+The inclass part is `seminar_*.ipynb`, where you implement a character-level RNN language model.
+You can find other versions in ./other_frameworks as usual.
+
+__Note:__ homework 4 is out.
