@@ -10,8 +10,10 @@ __[slides](https://yadi.sk/i/dJKR4CI43PfRjD)__
 
 ## Practice
 
-This week's practice is just as usual: pick one of two notebooks (theano or tf) and follow instructions inside.
+This week's practice is just as usual: jump to the notebook and follow instructions from there.
 
-However, there are two alternative assignments (both in theano) that you can do _instead of_ main assignment: 
+__This notebook is also a part of homework assignment__, you may have noticed there's the same exact notebook there.
+
+There's also more versions in theano and tensorflow hiding under ./other_frameworks, including
 * 1d convolutions for prohibited content filtering
 * 1d convolutions for music processing 
