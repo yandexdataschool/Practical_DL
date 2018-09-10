@@ -1,6 +1,6 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and Skoltech @spring'18. _For previous iteration visit the [fall17 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall17)._
+This repo follows Fall2018 track for HSE students. _For previous iteration with complete materials visit the [master branch](https://github.com/yandexdataschool/Practical_DL/tree/master)._
 
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
@@ -12,67 +12,20 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 
 
 # Syllabus
-- __week01__ Intro to deep learning
-  - [ ] Lecture: Deep learning -- introduction, backpropagation algorithm
-  - [ ] Seminar: Neural networks in numpy
-  - [ ] Homework 1 is out!
+- __week01__ (10.09.2018) Intro to deep learning
+  - [ ] Lecture: ML recap. Neural nets 101: backprop, intizlization, adaptive SGD
+  - [ ] Seminar: Neural networks in numpy (deadline in 10 days)
 
-- __week02__ Adaptive optimization methods
-  - [ ] Lecture: Empirical risk minimization, standard loss functions, linear classification, stochastic optimizers, adaptive SGD
-  - [ ] Seminar: Adaptive optimizers in numpy
-  - [ ] Please begin worrying about [installing pytorch](https://github.com/yandexdataschool/Practical_DL/issues/6). You will need it next week!
-
-- __week03__ Convolutional networks I
-  - [ ] Lecture: Convolutional networks (ConvNets), computer vision
-  - [ ] Seminar: Symbolic graphs (pytorch), 
-  - [ ] Homework 2 is out!
-  
-- __week04__ Convolutional networks II
-  - [ ] Lecture: ConvNet architectures, representations inside CNNs; visualizing networks/inceptionism, transfer learning
-  - [ ] Seminar: Fine-tuning a pre-trained network
-  
-- __week05__ Advanced Computer vision
-  - [ ] Lecture: "Deep" computer vision beyond classification; Verification tasks, object detection architectures, semantic segmentation
-  - [ ] Seminar: Semantic segmentation
-  - [ ] Homework 3 is out!
-  
-- __week06__ Deep generative models I
-  - [ ] Lecture: Deep image generation; generative ConvNets, perceptual loss functions.
-  - [ ] Seminar: Art Style Transfer by Dmitry Ulyanov
-
-- __week07__ Deep generative models II
-  - [ ] Lecture: Generative Adversarial Networks
-  - [ ] Seminar: Generative Adversarial Networks
-
-- __week08__ Unsupervised deep learning
-  - [ ] Lecture: Autoencoders, variational autoencoders, image analogies
-  - [ ] Seminar: Variational autoencoders
-
-- __week09__ Deep learning for natural language processing
-  - [ ] Lecture: Word embeddings, word2vec and other variants, convolutional networks for natural language
-  - [ ] Seminar: Word embeddings. Text convolutions for salary prediction.
-  - [ ] Homework 4 is out!
-  
-- __week10__ Recurrent neural networks
-  - [ ] Lecture: Modelling sequences. Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM.
-  - [ ] Seminar: Generating human names and deep learning papers with RNNs
-
-- __week11__ Recurrent neural networks II
-  - [ ] Lecture: Sequence2sequence, architectures with attention and long-term memory.
-  - [ ] Seminar: Image Captioning
-
-- __week12__: Deep Reinforcement Learning
-  - [ ] Lecture: Reinforcement Learning, MDPs, policy gradient methods
-  - [ ] Seminar: REINFORCE on simple robot control, optional: advantage actor-critic on atari
    
 
 # Contributors & course staff
-Course materials and teaching performed by
-- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - all main track lectures (1-11)
-- [Victor Yurchenko](https://github.com/simflin) - intro notebooks, admin stuff
+Course materials and teaching performed by (in random order)
+- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - YSDA main track lectures (1-11)
+- [Victor Yurchenko](https://github.com/simflin) - intro notebooks, YSDA admin stuff
+- [Victoria Chekalina](http://github.com/sayankotor) - seminars, HSE hw checkup, admin stuff
 - [Vadim Lebedev](https://github.com/vadim-v-lebedev) - notebooks, admin stuff
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - notebooks on generative models & autoencoders
-- [Fedor Ratnikov](https://github.com/justheuristic/) - pytorch & nlp notebooks, one bonus lecture
+- [Fedor Ratnikov](https://github.com/justheuristic/) - pytorch & nlp notebooks, some lectures
 - [Oleg Vasilev](https://github.com/Omrigan) - notebooks, technical issue resolution
 - [Arseniy Ashukha](https://github.com/ars-ashuha) - image captioning materials
 - [Mikhail Khalman](https://github.com/mihaha) - variational autoencoder materials
