@@ -31,6 +31,8 @@ Your practice task for this week has two parts:
 * `./backprop.ipynb` - building your own neural network in pure numpy, gradients and all
 * `./adaptive_sgd.ipynb` - implementing momentum, rmsprop and other optimizers for logistic regression
 
+If you don't have python with numpy in your pockets, try pressing [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/fall18) (vm lasts one hour, sometimes offline) or open notebooks in [google colab](https://colab.research.google.com). Here's an example:
+* https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall18/week01_backprop/backprop.ipynb
 
 __Note__: Starting from the next week, practice assignments will require you to install a deep learning framework. Click [here](https://github.com/yandexdataschool/Practical_DL/issues/6) for details.
 
