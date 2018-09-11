@@ -9,6 +9,7 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 * Telegram [chat room](https://t.me/joinchat/CDFcMRAejIXa650BD7-mbA) (russian).
 * YSDA deadlines & admin stuff can be found at the YSDA course wiki (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
+* Grading, lateness penalties and other formalities - see [this page](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE))
 
 
 # Syllabus
