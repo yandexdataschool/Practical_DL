@@ -1,16 +1,11 @@
 ## Materials
 * Adaptive optimization methods (russian) - [video](https://yadi.sk/i/SAGl44PS3EHZeK)
 * Deep learning frameworks (russian) - [video](https://www.youtube.com/watch?v=ghZyptkanB0) 
-
+* Tensorflow tutorial (russian) - [video](https://wiki.school.yandex.ru/shad/Videocollections2.0/SecondYear/videoMachineLearning2/MO11.09.18A)
 * Stochastic gradient descent modiffications (english) - [video](https://www.youtube.com/watch?v=nhqo0u1a6fw)
 * A blog post overview of gradient descent methods - [url](http://ruder.io/optimizing-gradient-descent/)
 * Deep learning frameworks (english) - [video](https://www.youtube.com/watch?v=Vf_-OkqbwPo)
 
-
-## More on adaptive optimization
-* [Cool interactive demo of momentum](http://distill.pub/2017/momentum/)
-* [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
-* [RMSPROP video](https://www.youtube.com/watch?v=defQQqkXEfE)
 
 
 ## More on DL frameworks
