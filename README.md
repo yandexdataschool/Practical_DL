@@ -12,10 +12,13 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 
 
 # Syllabus
-- __week01__ (10.09.2018) Intro to deep learning
+- __week01__ (10.09.2018) Basics of neural networks
   - [ ] Lecture: ML recap. Neural nets 101: backprop, intizlization, adaptive SGD
   - [ ] Seminar: Neural networks in numpy (deadline in 10 days)
 
+- __week02__ (17.09.2018) Deep learning stuff
+  - [ ] Lecture: An umbrella-lecture for deep learning frameworks, some philosophy, tips & tricks
+  - [ ] Seminar: Automatic gradients (pytorch | tensorflow | theano)
    
 
 # Contributors & course staff
