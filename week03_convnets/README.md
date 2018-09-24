@@ -22,3 +22,28 @@ __Note__: Seminars assume that you remember batch normalization and dropout from
 
 As usual, go to seminar_pytorch.ipynb and folow instructons from there.
 There's also an alternative version for other frameworks (theano+lasagne, tensorflow+keras) available.
+
+__Grading is DOUBLED__
+starting at zero points
+ * +4 for describing your iteration path in a report below.
+ * +4 for building a network that gets above 20% accuracy
+ * +2 for beating each of these milestones on TEST dataset:
+    * 50% (10 total)
+    * 60% (12 total)
+    * 65% (14 total)
+    * 70% (16 total)
+    * 75% (18 total)
+    * 80% (20 total)
+
+Bonus points
+
+Common ways to get bonus points are:
+*    Get higher score, obviously.
+*    Anything special about your NN. For example "A super-small/fast NN that gets 80%" gets a bonus.
+*    Any detailed analysis of the results. (saliency maps, whatever)
+
+Restrictions
+
+*    Please do NOT use pre-trained networks for this assignment until you reach 80%.
+        In other words, base milestones must be beaten without pre-trained nets (and such net must be present in the e-mail). After that, you can use whatever you want.
+    you can use validation data for training, but you can't' do anything with test data apart from running the evaluation procedure.
