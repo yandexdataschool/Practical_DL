@@ -17,6 +17,3 @@
 # Practice
 
 The inclass part is `seminar_*.ipynb`, where you implement a character-level RNN language model.
-You can find other versions in ./other_frameworks as usual.
-
-__Note:__ homework 4 is out.
