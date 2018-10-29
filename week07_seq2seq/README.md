@@ -4,6 +4,7 @@ __[slides](https://yadi.sk/i/Fey_u0IrbdICpg)__
 ### Materials
 - Russian [lecture](https://www.youtube.com/watch?v=_XRBlhzb31U), [seminar](https://www.youtube.com/watch?v=s3oONja_SNQ)
 - The only more-or-less reasonable lecture we found: [video](https://www.youtube.com/watch?v=QuELiw8tbx8). Contributions are welcome :)
+- An awesome distill article explaining attention and augmented RNN - [article](https://distill.pub/2016/augmented-rnns/)
 
 ### More materials
 - Gumbel-softmax (usable for semi-hard attention) - [video](https://www.youtube.com/watch?v=wVkLM2KKHp8), [tutorial](http://blog.evjang.com/2016/11/tutorial-categorical-variational.html), [arxiv](https://arxiv.org/abs/1611.01144)
