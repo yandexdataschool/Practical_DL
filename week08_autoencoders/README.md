@@ -1,3 +1,4 @@
+__[slides](https://yadi.sk/i/_QULbVP5YAYydw)__
 ### Materials
 * Russian: [autoencoders](https://yadi.sk/i/ACgqdyqi3GisV5), [advanced theory on VAE](https://yadi.sk/i/iMCBfyd33GYjZc)
 * English: autoencoders (9 short videos):[I](https://www.youtube.com/watch?v=FzS3tMl4Nsc),[II](https://www.youtube.com/watch?v=xTU79Zs4XKY),[III](https://www.youtube.com/watch?v=6DO_jVbDP3I),[IV](https://www.youtube.com/watch?v=xq-I0Rl8mt0),[V](https://www.youtube.com/watch?v=5rLgoM2Pkso), [VI](https://www.youtube.com/watch?v=t2NQ_c5BFOc),[VII](https://www.youtube.com/watch?v=79sYlJ8Cvlc),[VIII](https://www.youtube.com/watch?v=z5ZYm_wJ37c),[IX](https://www.youtube.com/watch?v=Oq38pINmddk). 
