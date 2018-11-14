@@ -9,7 +9,7 @@ def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
                       use_raw=False,
                       dx=80,dy=80,
                       dimx=45,dimy=45
-    ):#sad smile
+    ): # sad smile
 
     #download if not exists
     if (not use_raw) and not os.path.exists(images_name):
@@ -30,7 +30,7 @@ def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
 
     if not os.path.exists(attrs_name):
         print("attributes not found, downloading...")
-        os.system("wget http://www.cs.columbia.edu/CAVE/databases/pubfig/download/%s"%attrs_name)
+        os.system("wget http://www.cs.columbia.edu/CAVE/databases/pubfig/download/%s" % attrs_name)
         print("done")
 
     #read attrs
@@ -54,14 +54,15 @@ def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
 
     #mass-merge
     #(photos now have same order as attributes)
-    df = pd.merge(df_attrs,photo_ids,on=('person','imagenum'))
+    df_attrs['imagenum'] = df_attrs['imagenum'].astype(np.int64)
+    df = pd.merge(df_attrs, photo_ids, on=('person','imagenum'))
 
     assert len(df)==len(df_attrs),"lost some data when merging dataframes"
 
     #image preprocessing
-    all_photos =df['photo_path'].apply(imread)\
-                                .apply(lambda img:img[dy:-dy,dx:-dx])\
-                                .apply(lambda img: imresize(img,[dimx,dimy]))
+    all_photos = df['photo_path'].apply(imread)\
+                                 .apply(lambda img:img[dy:-dy,dx:-dx])\
+                                 .apply(lambda img: imresize(img,[dimx,dimy]))
 
     all_photos = np.stack(all_photos.values).astype('uint8')
     all_attrs = df.drop(["photo_path","person","imagenum"],axis=1)
