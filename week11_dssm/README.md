@@ -1,6 +1,6 @@
 # Deep embedding learning
 
-[Lecture slides](https://yadi.sk/i/-vKBP1iW3Pj3PB)
+[Lecture slides](https://yadi.sk/i/elGgjl33f2p78A)
 
 
 ## Materials
