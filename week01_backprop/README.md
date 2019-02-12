@@ -17,6 +17,8 @@
 
 ## Practice
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week01_backprop/backprop.ipynb)
+
 Open backprop.ipynb and follow instructions from there.
 
 The practice itself doesn't count towards grade but it covers the core parts of homework 1.
