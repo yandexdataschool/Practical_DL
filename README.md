@@ -1,12 +1,12 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and Skoltech @spring'18. _For previous iteration visit the [fall17 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall17)._
+This repo supplements Deep Learning course taught at YSDA and Skoltech @spring'19. _For previous iteration visit the [fall18 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall18)._
 
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
 # General info
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
-* Telegram [chat room](https://t.me/joinchat/CDFcMUhjSRBcgTwqsenWUA) (russian).
+* Telegram [chat room](https://t.me/joinchat/E1aLg0s3mRMlHN-5JNPFWg) (russian).
 * YSDA deadlines & admin stuff can be found at the YSDA course wiki (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
 
@@ -16,26 +16,26 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
   - [ ] Lecture: Deep learning -- introduction, backpropagation algorithm
   - [ ] Seminar: Neural networks in numpy
   - [ ] Homework 1 is out!
+  - [ ] Please begin worrying about [installing pytorch](https://github.com/yandexdataschool/Practical_DL/issues/6). You will need it next week!
 
 - __week02__ Adaptive optimization methods
   - [ ] Lecture: Empirical risk minimization, standard loss functions, linear classification, stochastic optimizers, adaptive SGD
-  - [ ] Seminar: Adaptive optimizers in numpy
-  - [ ] Please begin worrying about [installing pytorch](https://github.com/yandexdataschool/Practical_DL/issues/6). You will need it next week!
+  - [ ] Seminar: PyTorch basics
 
 - __week03__ Convolutional networks I
   - [ ] Lecture: Convolutional networks (ConvNets), computer vision
-  - [ ] Seminar: Symbolic graphs (pytorch), 
+  - [ ] Seminar: Convolutional networks in pytorch
   - [ ] Homework 2 is out!
-  
+
 - __week04__ Convolutional networks II
   - [ ] Lecture: ConvNet architectures, representations inside CNNs; visualizing networks/inceptionism, transfer learning
   - [ ] Seminar: Fine-tuning a pre-trained network
-  
+
 - __week05__ Advanced Computer vision
   - [ ] Lecture: "Deep" computer vision beyond classification; Verification tasks, object detection architectures, semantic segmentation
   - [ ] Seminar: Semantic segmentation
   - [ ] Homework 3 is out!
-  
+
 - __week06__ Deep generative models I
   - [ ] Lecture: Deep image generation; generative ConvNets, perceptual loss functions.
   - [ ] Seminar: Art Style Transfer by Dmitry Ulyanov
@@ -52,7 +52,7 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
   - [ ] Lecture: Word embeddings, word2vec and other variants, convolutional networks for natural language
   - [ ] Seminar: Word embeddings. Text convolutions for salary prediction.
   - [ ] Homework 4 is out!
-  
+
 - __week10__ Recurrent neural networks
   - [ ] Lecture: Modelling sequences. Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM.
   - [ ] Seminar: Generating human names and deep learning papers with RNNs
@@ -64,7 +64,7 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 - __week12__: Deep Reinforcement Learning
   - [ ] Lecture: Reinforcement Learning, MDPs, policy gradient methods
   - [ ] Seminar: REINFORCE on simple robot control, optional: advantage actor-critic on atari
-   
+
 
 # Contributors & course staff
 Course materials and teaching performed by
