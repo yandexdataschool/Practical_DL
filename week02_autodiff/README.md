@@ -24,6 +24,8 @@
 
 ## Practice
 
+__[colab notebook](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
+
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there.
 
 This seminar doesn't count towards final grade, yet it teaches you the framework that you're gonna use throughout all subsequent assignments.
