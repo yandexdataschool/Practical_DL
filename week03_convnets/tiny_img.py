@@ -36,8 +36,6 @@ from PIL import Image
 
 def read_folder(folder_path):
     list_of_pics = [Image.open(os.path.join(folder_path, filename)).getdata() for filename in os.listdir(folder_path) if np.array(Image.open(os.path.join(folder_path, filename)).getdata()).shape == (4096, 3)]
-    print (folder_path)
-    print (np.array(list_of_pics).shape)
     return np.array(list_of_pics).reshape(np.array(list_of_pics).shape[0], 64, 64, 3)
 
 def load_tiny_image(data_path=".", channels_last=False, test_size=0.3, random_state=1337):
