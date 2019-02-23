@@ -36,21 +36,21 @@ from PIL import Image
 
 def read_folder(folder_path):
     list_of_pics = [Image.open(os.path.join(folder_path, filename)).getdata() for filename in os.listdir(folder_path) if np.array(Image.open(os.path.join(folder_path, filename)).getdata()).shape == (4096, 3)]
-    print (folder_path)
-    print (np.array(list_of_pics).shape)
     return np.array(list_of_pics).reshape(np.array(list_of_pics).shape[0], 64, 64, 3)
 
 def load_tiny_image(data_path=".", channels_last=False, test_size=0.3, random_state=1337):
     data_path = '.'
     full_data_path = os.path.join(data_path, "tiny-imagenet-200/")
+    
+    if not os.path.exists(full_data_path):
+        print ("Dataset not found. Downloading...")
+        print (data_path)
+        download_tinyImg200(data_path)
+        
     list_of_folders = open(os.path.join(full_data_path, "wnids.txt"), 'r')
     folder_names = [line.split() for line in list_of_folders.readlines()]
     data_paths = [os.path.join(data_path, "tiny-imagenet-200/train/" + elem[0] + "/images") for elem in folder_names]
 
-    if not os.path.exists(full_data_path) or not all(list(map(os.path.exists, data_paths))):
-        print ("Dataset not found. Downloading...")
-        print (data_path)
-        download_tinyImg200(data_path)
 
     X_list = [read_folder(path) for path in data_paths]  
     X = np.concatenate(X_list).reshape([-1,64,64,3]).astype('float32')/255
