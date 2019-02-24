@@ -35,8 +35,9 @@ def download_tinyImg200(path,
 from PIL import Image
 
 def read_folder(folder_path):
+    print (folder_path)
     list_of_pics = [Image.open(os.path.join(folder_path, filename)).getdata() for filename in os.listdir(folder_path) if np.array(Image.open(os.path.join(folder_path, filename)).getdata()).shape == (4096, 3)]
-    return np.array(list_of_pics).reshape(np.array(list_of_pics).shape[0], 64, 64, 3)
+    return np.array(list_of_pics).reshape(np.array(list_of_pics).shape[0], 3, 64, 64)
 
 def load_tiny_image(data_path=".", channels_last=False, test_size=0.3, random_state=1337):
     data_path = '.'
@@ -53,7 +54,7 @@ def load_tiny_image(data_path=".", channels_last=False, test_size=0.3, random_st
 
 
     X_list = [read_folder(path) for path in data_paths]  
-    X = np.concatenate(X_list).reshape([-1,64,64,3]).astype('float32')/255
+    X = np.concatenate(X_list).reshape([-1,3,64,64]).astype('float32')/255
     y_list = []
 
     for class_label in np.arange(len(data_paths)):
