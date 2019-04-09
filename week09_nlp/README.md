@@ -9,6 +9,7 @@ __[slides](https://yadi.sk/i/dJKR4CI43PfRjD)__
 * Wavenet - convolutional generative model for music - [blog post](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Practice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week09_nlp/seminar_pytorch.ipynb)
 
 This week's practice is just as usual: jump to the notebook and follow instructions from there.
 
