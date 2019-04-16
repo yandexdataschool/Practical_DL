@@ -15,5 +15,6 @@
 * "Deep models for text and sequences" section of [this course](https://www.udacity.com/course/deep-learning--ud730)
 
 # Practice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/spring19/week07_%5Brecap%5D_rnn/seminar_pytorch.ipynb)
 
 The inclass part is `seminar_*.ipynb`, where you implement a character-level RNN language model.
