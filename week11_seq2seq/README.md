@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/master/week11_seq2seq/practice.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/spring2019/week11_seq2seq/practice.ipynb)
 
 ### Materials
 - Russian [lecture](https://www.youtube.com/watch?v=_XRBlhzb31U), [seminar](https://www.youtube.com/watch?v=s3oONja_SNQ)
