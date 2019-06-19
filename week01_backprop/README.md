@@ -11,6 +11,7 @@
 ## More materials
   - Interactive [neural network playground](http://playground.tensorflow.org/) in your browser
   - [Backprop by cs231](http://cs231n.github.io/optimization-2/)
+  - A wonderful [blog post](http://karpathy.github.io/2019/04/25/recipe/) on what to expect from deep learning
   - [Notation](http://cs231n.github.io/neural-networks-1/#nn)
   - pretty much all the module 1 of http://cs231n.github.io/
 
