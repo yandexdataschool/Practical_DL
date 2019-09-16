@@ -21,5 +21,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week01_backprop/backprop.ipynb)
 
 
-Check anytask for homework description for details details.
+Check anytask for homework description for details on the assignment.
 
