@@ -1,3 +1,6 @@
+[__slides__](https://yadi.sk/i/eRVlESjqlIPBGw)
+
+
 ## Materials
 * Adaptive optimization methods (russian) - [video](https://yadi.sk/i/SAGl44PS3EHZeK)
 * Deep learning frameworks (russian) - [video](https://www.youtube.com/watch?v=ghZyptkanB0) 
