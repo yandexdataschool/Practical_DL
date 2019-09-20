@@ -1,11 +1,11 @@
 import os
 import numpy as np
-from scipy.misc import imread,imresize
+from matplotlib.pyplot import imread
 from sklearn.model_selection import train_test_split
 from glob import glob
 
 def load_notmnist(path='./notMNIST_small',letters='ABCDEFGHIJ',
-                  img_shape=(28,28),test_size=0.25,one_hot=False):
+                  test_size=0.25,one_hot=False):
     
     # download data if it's missing. If you have any problems, go to the urls and load it manually.
     if not os.path.exists(path):
@@ -20,7 +20,7 @@ def load_notmnist(path='./notMNIST_small',letters='ABCDEFGHIJ',
         class_i = img_path.split(os.sep)[-2]
         if class_i not in letters: continue
         try:
-            data.append(imresize(imread(img_path), img_shape))
+            data.append(imread(img_path))
             labels.append(class_i,)
         except:
             print("found broken img: %s [it's ok if <10 images are broken]" % img_path)
