@@ -18,13 +18,8 @@
 
 ## Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week01_backprop/backprop.ipynb)
-
-Open backprop.ipynb and follow instructions from there.
-
-The practice itself doesn't count towards grade but it covers the core parts of homework 1.
-
-__btw__ Homework1 has just been issued!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week01_backprop/backprop.ipynb)
 
 
+Check anytask for homework description for details on the assignment.
 
