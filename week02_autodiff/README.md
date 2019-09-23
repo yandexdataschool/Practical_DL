@@ -29,11 +29,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
 
-As usual, go to `seminar_pytorch.ipynb` and follow instructions from there.
+As usual, go to `seminar_pytorch.ipynb` and follow instructions from there. You will also need to pass `homework_pytorch.ipynb` for full score.
 
-This seminar doesn't count towards final grade, yet it teaches you the framework that you're gonna use throughout all subsequent assignments.
-
-_There's also a theano & tensorflow assignments in `./other_frameworks` in case you want to see deep learning from a viewpoint (of static graphs). However, we strongly recommend that you begin with pytorch version unless you're already proficient with it._
-
-
+__Alternative (TensorFlow):__ You can also get the same maximum grade by submitting this assignment in tensorflow, see `tensorflow.ipynb`.
 
