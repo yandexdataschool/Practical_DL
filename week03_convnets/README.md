@@ -20,8 +20,11 @@ __Note__: Seminars assume that you remember batch normalization and dropout from
 
 ## Practice
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week03_convnets/seminar_pytorch.ipynb)
+
+
 As usual, go to seminar_pytorch.ipynb and folow instructons from there.
-There's also an alternative version for other frameworks (theano+lasagne, tensorflow+keras) available.
+There's also an alternative version for other frameworks (tensorflow+keras) available.
 
 __Grading is DOUBLED__
 starting at zero points
