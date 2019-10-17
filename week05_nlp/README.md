@@ -16,6 +16,8 @@ This week's practice is just as usual: jump to the notebook and follow instructi
 
 __This notebook is also a part of homework assignment__, you may have noticed there's the same exact notebook there.
 
-There's also more versions in theano and tensorflow hiding under ./other_frameworks, including
+There are versions in pytorch, theano and tensorflow.
+
+You can also find under `1d_conv_tasks` the following alternative assiments in theano:
 * 1d convolutions for prohibited content filtering
 * 1d convolutions for music processing 
