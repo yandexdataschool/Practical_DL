@@ -16,6 +16,6 @@ __[Slides]__ - [here](https://yadi.sk/i/FfYNOafFKxPevA)
 
 
 ### Practice
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week00_adversarial/simple_1d_gan_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week09_adversarial/simple_1d_gan_pytorch.ipynb)
 
 Homework will be announced shortly
