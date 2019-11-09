@@ -13,3 +13,9 @@ __[Slides]__ - [here](https://yadi.sk/i/FfYNOafFKxPevA)
 * Word translation without parallel data - [arxiv](https://arxiv.org/pdf/1710.04087.pdf), [github](https://github.com/facebookresearch/MUSE)
 * Srsly, there's a lot of cool stuff about GANs. Just google it.
 
+
+
+### Practice
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week09_adversarial/simple_1d_gan_pytorch.ipynb)
+
+Homework will be announced shortly
