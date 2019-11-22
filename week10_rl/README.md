@@ -18,4 +18,6 @@
 * Bayesian perspective on why reparameterization & logderivative tricks matter (Vetrov's take) - [pdf](https://www.sdsj.ru/slides/Vetrov.pdf)
 * Adversarial review of policy gradient - [blog](http://www.argmin.net/2018/02/20/reinforce/)
 
+[__part1_gym_interface__](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/seminar_gym_interface.ipynb)
+
 Run seminar notebook in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week06_policy_based/reinforce_pytorch.ipynb)
