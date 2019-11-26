@@ -1,7 +1,12 @@
 import numpy as np
 import os
-from scipy.misc import imread,imresize
+from imageio import imread # as advised https://docs.scipy.org/doc/scipy-1.2.1/reference/generated/scipy.misc.imread.html
+from PIL import Image
 import pandas as pd
+
+# as advised https://docs.scipy.org/doc/scipy-1.2.1/reference/generated/scipy.misc.imresize.html?highlight=imresize#scipy.misc.imresize
+def imresize(arr, size):
+    return np.array(Image.fromarray(arr).resize(size=size))
 
 def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
                       images_name = "lfw-deepfunneled",
@@ -68,4 +73,3 @@ def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
     all_attrs = df.drop(["photo_path","person","imagenum"],axis=1)
     
     return all_photos,all_attrs
-    
