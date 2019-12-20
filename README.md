@@ -1,6 +1,6 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at HSE @fall'19. _For previous iteration visit the [spring19 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring19)._
+This repo supplements Deep Learning course taught at YSDA and HSE @fall'19. _For previous iteration visit the [spring19 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring19)._
 
 Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
