@@ -1,6 +1,8 @@
 import numpy as np
 import os
-from scipy.misc import imread,imresize
+import skimage.io
+import skimage
+import skimage.transform
 import pandas as pd
 
 def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
@@ -60,9 +62,9 @@ def fetch_lfw_dataset(attrs_name = "lfw_attributes.txt",
     assert len(df)==len(df_attrs),"lost some data when merging dataframes"
 
     #image preprocessing
-    all_photos = df['photo_path'].apply(imread)\
+    all_photos = df['photo_path'].apply(lambda img: skimage.io.imread(img))\
                                  .apply(lambda img:img[dy:-dy,dx:-dx])\
-                                 .apply(lambda img: imresize(img,[dimx,dimy]))
+                                 .apply(lambda img: skimage.img_as_ubyte(skimage.transform.resize(img,[dimx,dimy])))
 
     all_photos = np.stack(all_photos.values).astype('uint8')
     all_attrs = df.drop(["photo_path","person","imagenum"],axis=1)
