@@ -1,5 +1,7 @@
 __[Slides]__ - [here](https://yadi.sk/i/FfYNOafFKxPevA)
 
+__Seminar:__ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring20/seminar08-generative/simple_1d_gan_pytorch.ipynb)
+
 ### Materials
 * Russian: [Generative adversarial networks](https://yadi.sk/i/I1WBh0TM3GUoky), [Advanced theory on GANs](https://yadi.sk/i/Gi-8h2Ph3T87ep)
 * English: [Generative adversarial networks](https://www.youtube.com/watch?v=HN9NRhm9waY)
