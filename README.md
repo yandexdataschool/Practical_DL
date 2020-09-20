@@ -1,12 +1,11 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and HSE @fall'19. _For previous iteration visit the [spring19 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring19)._
+This repo supplements Deep Learning course taught at YSDA and HSE @fall'20. _For previous iteration visit the [spring20 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring20)._
 
-Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
+Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
 # General info
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
-* Telegram [chat room](https://t.me/hsedeeplearning2019) (russian).
+* Telegram [chat room](https://t.me/joinchat/CDFcMVh4v23vTv0YtqB-qQ) (russian).
 * Deadlines & grading rules can be found at [this page](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE)).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
 
