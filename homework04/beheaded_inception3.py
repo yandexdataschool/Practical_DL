@@ -43,7 +43,7 @@ class BeheadedInception3(Inception3):
     
 
 def beheaded_inception_v3(transform_input=True):
-    model= BeheadedInception3(transform_input=transform_input)
+    model= BeheadedInception3(transform_input=transform_input, init_weights=False)
     inception_url = 'https://download.pytorch.org/models/inception_v3_google-1a9a5a14.pth'
     model.load_state_dict(load_url(inception_url))
     return model
