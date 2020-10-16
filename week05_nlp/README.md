@@ -10,12 +10,9 @@ __[slides](https://yadi.sk/i/dJKR4CI43PfRjD)__
 
 ## Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week05_nlp/seminar.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall20/week05_nlp/seminar.ipynb)
 
-This week's practice is just as usual: jump to the notebook and follow instructions from there.
-
-__This notebook is also a part of homework assignment__, you may have noticed there's the same exact notebook there.
-
+Homework has two parts: the first is common for all frameworks, the second is framework-specific.
 There are versions in pytorch, theano and tensorflow.
 
 You can also find under `1d_conv_tasks` the following alternative assiments in theano:
