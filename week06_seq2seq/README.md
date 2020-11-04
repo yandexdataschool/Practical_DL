@@ -1,26 +1,23 @@
-__[slides](https://yadi.sk/i/Fey_u0IrbdICpg)__
+## Materials
+* [Slides](https://yadi.sk/i/Qjn4U0Np3UKL5f)
+* CS231 lecture on RNNs - https://www.youtube.com/watch?v=iX5V1WpxxkY
+* Our [lecture](https://yadi.sk/i/XHmT5hO53GcCKV), [seminar](https://yadi.sk/i/19twHESN3GcGKQ)
+* [alternative] Brief lecture on RNN by nervana - https://www.youtube.com/watch?v=Ukgii7Yd_cU
+* [alternative] More detailed lecture by Y. Bengio - https://www.youtube.com/watch?v=xK-bzjIQkmM
+* Great reading by Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* LSTM explained in detail by colah - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 
-### Materials
-- Russian [lecture](https://www.youtube.com/watch?v=_XRBlhzb31U), [seminar](https://www.youtube.com/watch?v=s3oONja_SNQ)
-- The only more-or-less reasonable lecture we found: [video](https://www.youtube.com/watch?v=QuELiw8tbx8). Contributions are welcome :)
-- An awesome distill article explaining attention and augmented RNN - [article](https://distill.pub/2016/augmented-rnns/)
+## More materials
+* Seq2seq lecture - https://www.youtube.com/watch?v=G5RY_SUJih4
+* "Awesome rnn" entry point - https://github.com/kjw0612/awesome-rnn
+* OpenAI research on sentiment analysis that sheds some light on what's inside LSTM language model.
+* CS231 rnn [assignment](http://cs231n.github.io/assignments2016/assignment3/)
+* "Deep models for text and sequences" section of [this course](https://www.udacity.com/course/deep-learning--ud730)
 
-### More materials
-- Gumbel-softmax (usable for semi-hard attention) - [video](https://www.youtube.com/watch?v=wVkLM2KKHp8), [tutorial](http://blog.evjang.com/2016/11/tutorial-categorical-variational.html), [arxiv](https://arxiv.org/abs/1611.01144)
-- Attention is all you need - on seq2seq architecture made entirely from attention - [video](https://www.youtube.com/watch?v=rBCqOTEfxvg), [arxiv](https://arxiv.org/abs/1706.03762)
-- Convolutional + attentive seq2seq - [arxiv](https://arxiv.org/pdf/1705.03122.pdf)
-- Recurrent dropout: [variational](https://arxiv.org/abs/1512.05287), [gate-specific](https://arxiv.org/abs/1603.05118)
-- Normalization: [gate-specific](https://arxiv.org/abs/1603.09025), [layer-norm](https://arxiv.org/abs/1607.06450)
-- Improved softmax operators: [post](http://sebastianruder.com/word-embeddings-softmax/index.html)
-- Better tokenization for language-related stuff: [arxiv](https://arxiv.org/abs/1508.07909), [code](https://github.com/rsennrich/subword-nmt)
+# Practice
 
-### Homework assignment
-
-There's a main assignment on image captioning (both torch, tf and theano) that's worth 20 points.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week06_rnn/seminar_pytorch.ipynb)
 
 
-Helper urls:
-- MS COCO challenge: http://mscoco.org/dataset/#overview
-- Im2latex: https://openai.com/requests-for-research/#im2latex
-
+The inclass part is `seminar_*.ipynb`, where you implement a character-level RNN language model.
