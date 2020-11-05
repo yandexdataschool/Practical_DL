@@ -17,7 +17,13 @@
 
 # Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week06_rnn/seminar_pytorch.ipynb)
+Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week06_rnn/seminar_pytorch.ipynb)
+
+This week's practice consists of two parts:
+* basic character-level RNN for generating names `./seminar_*`
+* the homework assignment on image captioning `./captioning_*`
+
+As usual, feel free to pick any DL framework of your choosing.
 
 
-The inclass part is `seminar_*.ipynb`, where you implement a character-level RNN language model.
+
