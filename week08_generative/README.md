@@ -10,7 +10,7 @@
 
 The homework consists of two parts:
 * autoencoders_{yourframework}.ipynb - train a deep autoencoder for human faces
-* generative_{yourframework}.ipynb - same, but this time you build a GAN
+* adversarial_{yourframework}.ipynb - same, but this time you build a GAN
 
 
 ## GAN materials
