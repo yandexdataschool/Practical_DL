@@ -12,11 +12,11 @@
 
  
 ### Practice
-As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week10_asr/practice.ipynb).
+As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall20/week10_speech/practice.ipynb).
 
 
 __OPTIONAL:__ if you wanna try speech synthesis, 'ere you go:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week11_tts/seminar_tts.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall20/week10_speech/optional_tts.ipynb)
 
 
