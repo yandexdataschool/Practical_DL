@@ -6,7 +6,7 @@ Lecture and seminar materials for each week are in ./week* folders. Homeworks ar
 
 # General info
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
-* Telegram [chat room](https://t.me/joinchat/BZUAtEx5jCToejrzjTrrqg) (russian).
+* Telegram [chat room](https://t.me/joinchat/Gmrhi5MOfA2AHTPl) (russian).
 * YSDA deadlines & admin stuff can be found at the YSDA LMS (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
 
