@@ -29,7 +29,7 @@ def download_tinyImg200(path,
     print (os.path.join(path,tarname))
     import zipfile
     zip_ref = zipfile.ZipFile(os.path.join(path,tarname), 'r')
-    zip_ref.extractall()
+    zip_ref.extractall(path=path)
     zip_ref.close()
 
 
