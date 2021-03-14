@@ -19,7 +19,7 @@ class TinyImagenetRAM(Dataset):
         self.images, self.targets = [], []
         for index, item in tqdm(enumerate(self.classes), total=len(self.classes), desc=self.root):
             path = os.path.join(root, item, 'images')
-            for name in os.listdir(path):
+            for name in sorted(os.listdir(path)):
                 image = cv2.cvtColor(cv2.imread(os.path.join(path, name)), cv2.COLOR_BGR2RGB)
                 self.images.append(Image.fromarray(image))
                 self.targets.append(index)
