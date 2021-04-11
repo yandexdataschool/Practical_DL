@@ -7,6 +7,8 @@ Seminar Part1:
 
 Seminar Part2:
 
+You can read more here https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 Fantastic RNN's and where to find them
 * Simple RNN cell
 * RNN loop(layer)
