@@ -1,6 +1,6 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and HSE @fall'20. _For previous iteration visit the [spring20 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring20)._
+This repo supplements Deep Learning course taught at YSDA and HSE @fall'21. _For previous iteration visit the [spring21 branch](https://github.com/yandexdataschool/Practical_DL/tree/spring21)._
 
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
@@ -20,6 +20,10 @@ Lecture and practice materials for each week are in ./week* folders. You can com
 - __week02__ Catch-all lecture about deep learning tricks
   - [ ] Lecture: Deep learning as a language, dropout, batch/layer normalization, other tricks, deep learning frameworks
   - [ ] Seminar: PyTorch basics
+
+- __week03__ Convolutional neural networks
+  - [ ] Lecture: Computer vision tasks, Convolution and Pooling layers, ConvNet architectures, Data Augmentation
+  - [ ] Seminar: Training your first ConvNet
 
 # Contributors & course staff
 Course materials and teaching performed by
