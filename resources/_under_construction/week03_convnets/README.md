@@ -41,7 +41,8 @@ starting at zero points
 Bonus points
 
 Common ways to get bonus points are:
-*    Get higher score, obviously.
+*    Get higher score, obviously :)
+*    Implement specific architectures, such as ResNet, DenseNet, etc
 *    Anything special about your NN. For example "A super-small/fast NN that gets 80%" gets a bonus.
 *    Any detailed analysis of the results. (saliency maps, whatever)
 
