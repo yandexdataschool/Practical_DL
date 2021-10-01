@@ -1,4 +1,4 @@
-__[Slides]__ - [here](https://yadi.sk/i/eyCRxQHx3NH2dg)
+__[Slides]__ - [here](https://disk.yandex.ru/d/kqZODPyzcxPkeQ)
 
 ### Materials
 - Russian: [lecture I](https://yadi.sk/i/vNQYuGJP3FzDPU), [lecture II](https://yadi.sk/i/0IUoVMfI3GJcqb), [seminar](https://yadi.sk/i/YrGhi-803FzDTp)
