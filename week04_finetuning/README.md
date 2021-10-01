@@ -13,7 +13,7 @@ __[Slides]__ - [here](https://disk.yandex.ru/d/kqZODPyzcxPkeQ)
 
 
 ### Assignment
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall19/week04_finetuning/seminar_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall21/week04_finetuning/seminar_pytorch.ipynb)
 
 Your goal for this week is to use pre-trained convolutuional network from the model zoo to classify cats versus dogs.
 As usual, follow the instructions in seminar_lasagne or seminar_tf depending on your framework.
