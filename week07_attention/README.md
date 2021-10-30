@@ -6,4 +6,4 @@
 
 ### Practice
 This time there's only a basic seminar
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall20/week07_attention/seminar.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall21/week07_attention/seminar.ipynb)
