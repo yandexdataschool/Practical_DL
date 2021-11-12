@@ -6,7 +6,7 @@
 ### Practice & homework
 
 
-1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall20/week09_genrative/simple_1d_gan_pytorch.ipynb)
+1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall21/week08_generative/simple_1d_gan_pytorch.ipynb)
 
 The homework consists of two parts:
 * autoencoders_{yourframework}.ipynb - train a deep autoencoder for human faces
