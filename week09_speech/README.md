@@ -18,6 +18,6 @@ As usual, open `practice.ipynb` and follow insructions from there. Or use colab:
 
 __OPTIONAL:__ if you wanna try speech synthesis, 'ere you go:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall20/week10_speech/optional_tts.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall21/week09_speech/optional_tts.ipynb)
 
 
