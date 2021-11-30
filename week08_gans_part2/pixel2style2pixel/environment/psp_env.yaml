@@ -1,0 +1,37 @@
+name: psp_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2020.4.5.1=hecc5488_0
+  - certifi=2020.4.5.1=py36h9f0ad1d_0
+  - libedit=3.1.20181209=hc058e9b_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.2=he6710b0_1
+  - ninja=1.10.0=hc9558a2_0
+  - openssl=1.1.1g=h516909a_0
+  - pip=20.0.2=py36_3
+  - python=3.6.7=h0371630_0
+  - python_abi=3.6=1_cp36m
+  - readline=7.0=h7b6447c_5
+  - setuptools=46.4.0=py36_0
+  - sqlite=3.31.1=h62c20be_1
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.34.2=py36_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - scipy==1.4.1
+    - matplotlib==3.2.1
+    - tqdm==4.46.0
+    - numpy==1.18.4
+    - opencv-python==4.2.0.34
+    - pillow==7.1.2
+    - tensorboard==2.2.1
+    - torch==1.6.0
+    - torchvision==0.4.2
+prefix: ~/anaconda3/envs/psp_env
+
