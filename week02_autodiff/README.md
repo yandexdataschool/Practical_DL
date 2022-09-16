@@ -2,16 +2,15 @@
 
 
 ## Materials
-- __In russian:__
-  * Deep learning frameworks - [video](https://yadi.sk/i/hDIkaR4H3EtnXM)
-  * [Pytorch tutorial](https://yadi.sk/i/O3mQ76u43So3h9) __recommended__
-  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k) (english only for now. Links are welcome)
 
 - __In english:__
   * Deep learning frameworks - [video](https://www.youtube.com/watch?v=Vf_-OkqbwPo)
-  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k)
   * [PyTorch tutorial](https://www.youtube.com/watch?v=VMcRWYEKmhw)
+  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k)
 
+- __In russian:__
+  * [Pytorch tutorial](https://yadi.sk/i/O3mQ76u43So3h9) __recommended__
+  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k) (english only for now. Links are welcome)
 
 ## More on DL frameworks
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
