@@ -5,9 +5,9 @@ This repo supplements Deep Learning course taught at YSDA and HSE @fall'21. _For
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
 # General info
-* Telegram [chat room](https://t.me/joinchat/CDFcMVh4v23vTv0YtqB-qQ) (russian).
+* Telegram [chat room](https://t.me/+IsxSfgFZr1E0MDMy) (russian).
 * Deadlines & grading rules can be found at [this page](https://github.com/yandexdataschool/Practical_DL/wiki/Homeworks-and-grading-(HSE)).
-* Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues)
+* Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/practical_dl/issues) or ask around in the chat.
 
 
 # Syllabus
@@ -27,7 +27,7 @@ Lecture and practice materials for each week are in ./week* folders. You can com
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - all main track lectures (1-11)
+- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/) - main track lecture videos (1-11)
 - [Victor Yurchenko](https://github.com/simflin) - intro notebooks, admin stuff
 - [Vadim Lebedev](https://github.com/vadim-v-lebedev) - notebooks, admin stuff
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - notebooks on generative models & autoencoders
