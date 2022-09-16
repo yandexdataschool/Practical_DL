@@ -31,5 +31,5 @@
 
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there. You will also need to pass `homework_pytorch.ipynb` for full score.
 
-__Alternative (TensorFlow):__ You can also get the same maximum grade by submitting this assignment in tensorflow, see `tensorflow.ipynb`.
+__Alternative (TensorFlow):__ a similar tutorial for tensorflow is provided in `tensorflow.ipynb`.
 
