@@ -2,19 +2,15 @@
 
 
 ## Materials
-* Adaptive optimization methods (russian) - [video](https://yadi.sk/i/SAGl44PS3EHZeK)
-* Deep learning frameworks (russian) - [video](https://www.youtube.com/watch?v=ghZyptkanB0) 
 
-* Stochastic gradient descent modiffications (english) - [video](https://www.youtube.com/watch?v=nhqo0u1a6fw)
-* A blog post overview of gradient descent methods - [url](http://ruder.io/optimizing-gradient-descent/)
-* Deep learning frameworks (english) - [video](https://www.youtube.com/watch?v=Vf_-OkqbwPo)
+- __In english:__
+  * Deep learning frameworks - [video](https://www.youtube.com/watch?v=Vf_-OkqbwPo)
+  * [PyTorch tutorial](https://www.youtube.com/watch?v=VMcRWYEKmhw)
+  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k)
 
-
-## More on adaptive optimization
-* [Cool interactive demo of momentum](http://distill.pub/2017/momentum/)
-* [wikipedia on SGD :)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent), expecially the "extensions and variants" section
-* [RMSPROP video](https://www.youtube.com/watch?v=defQQqkXEfE)
-
+- __In russian:__
+  * [Pytorch tutorial](https://yadi.sk/i/O3mQ76u43So3h9) __recommended__
+  * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k) (english only for now. Links are welcome)
 
 ## More on DL frameworks
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
@@ -27,9 +23,9 @@
 
 ## Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/spring2019/week02_autodiff/seminar_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall22/week02_autodiff/seminar_pytorch.ipynb)
 
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there. You will also need to pass `homework_pytorch.ipynb` for full score.
 
-__Alternative (TensorFlow):__ You can also get the same maximum grade by submitting this assignment in tensorflow, see `tensorflow.ipynb`.
+__Alternative (TensorFlow):__ a similar tutorial for tensorflow is provided in `tensorflow.ipynb`. From now on, you *can* submit assignments in any framework - but you will have to do some extra engineering in that case. However, unless you're already profficient with PyTorch, we recommend you stick to it.
 
