@@ -13,7 +13,7 @@
  
 ### Practice
 
-As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall21/week09_speech/practice.ipynb).
+As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall22/week09_speech/practice.ipynb).
 
 
 __OPTIONAL:__ if you wanna try speech synthesis, 'ere you go:
