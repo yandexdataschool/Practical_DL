@@ -1,4 +1,4 @@
-[__slides__](https://yadi.sk/i/eRVlESjqlIPBGw)
+[__slides__](https://disk.yandex.ru/i/wYZeZb0nGyFOXg)
 
 
 ## Materials
