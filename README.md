@@ -1,6 +1,6 @@
 # Deep learning course
 
-This repo supplements Deep Learning course taught at YSDA and HSE @fall'22. _For previous iteration visit the [fall21 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall21)._
+This repo supplements Deep Learning course taught @spring'23. _For previous iteration visit the [fall22 branch](https://github.com/yandexdataschool/Practical_DL/tree/fall22)._
 
 Lecture and practice materials for each week are in ./week* folders. You can complete all asignments locally or in google colab (see readme files in week*)
 
