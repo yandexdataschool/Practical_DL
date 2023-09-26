@@ -1,4 +1,4 @@
-Lecture slides - __[click here](https://yadi.sk/i/M_5pn6-EYxjf3Q)__
+Lecture slides - __[click here](https://disk.yandex.ru/i/JKuTEpZLMpg9Dg)__
 
 __Note__: Seminars assume that you remember batch normalization and dropout from last lecture. If you don't, go recap week2.
 
