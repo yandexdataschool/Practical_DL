@@ -1,4 +1,4 @@
-__Slides: [link](https://disk.yandex.ru/i/Q_wrkqNEXJ4ztA)__ 
+__Slides: [link](https://disk.yandex.ru/i/Y2wH3vy57S03dw)__ 
 
 
 Practice: 
