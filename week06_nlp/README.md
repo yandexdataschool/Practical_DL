@@ -1,4 +1,4 @@
-__[slides](https://yadi.sk/i/dJKR4CI43PfRjD)__
+__[slides](https://disk.yandex.ru/i/dY87GO59IS_POA)__
 
 ### Materials
 * Russian [lecture](https://yadi.sk/i/X6rS31O7r6Aco), [seminar](https://yadi.sk/i/LZppDeV9r8H4Q)
@@ -11,9 +11,9 @@ __[slides](https://yadi.sk/i/dJKR4CI43PfRjD)__
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall22/week05_nlp/seminar.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week06_nlp/seminar.ipynb)
 
-Homework has two parts: the first one is non-DL-based, the second one uses neural nets and PyTorch.
+Homework has two parts: the first one (`part1_common.ipynb`) is non-DL-based, the second one (`part2_pytorch.ipynb`) uses neural nets and PyTorch.
 
 
 __Other materials__
