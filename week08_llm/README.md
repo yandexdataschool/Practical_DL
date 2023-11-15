@@ -2,7 +2,7 @@
 
 
 - Slides: [lecture_llm.pdf](./lecture_llm.pdf)
-- Practice session: [practice.ipynb](./practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/spring23/week08_llm/practice.ipynb)
+- Practice session: [practice.ipynb](./practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall23/week08_llm/practice.ipynb)
 - Video (in russian): [lecture](https://disk.yandex.ru/i/YCRr1gRuzXpZJA), [practice](https://disk.yandex.ru/i/1HaYtOxWZlHB5g)
 
 
