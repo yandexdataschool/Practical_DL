@@ -6,6 +6,13 @@
 * Alternative lecture by J. Schulman part 1 - https://www.youtube.com/watch?v=BB-BhTn6DCM
 * Alternative lecture by J. Schulman part 2 - https://www.youtube.com/watch?v=Wnl-Qh2UHGg
 
+## Practice
+
+__Part 1__ - intro to gym(nasium) interface - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week10_rl/intro.ipynb)
+
+__part 2__ - implement REINFORCE with a neural network agent - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week10_rl/reinforce_pytorch.ipynb)
+
+__Optionally,__ if you want to go full hardcore, you may choose to implement the actor-critic algorithm in [`a2c-optional.ipynb`](./a2c-optional.ipynb).
 
 ## More materials
 * A full-term course on reinforcement learning - [practical_rl](https://github.com/yandexdataschool/practical_rl)
@@ -19,6 +26,3 @@
 * Bayesian perspective on why reparameterization & logderivative tricks matter (Vetrov's take) - [pdf](https://www.sdsj.ru/slides/Vetrov.pdf)
 * Adversarial review of policy gradient - [blog](http://www.argmin.net/2018/02/20/reinforce/)
 
-[__part1_gym_interface__](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week01_intro/seminar_gym_interface.ipynb)
-
-Run seminar notebook in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week06_policy_based/reinforce_pytorch.ipynb)
