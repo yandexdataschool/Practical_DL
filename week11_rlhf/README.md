@@ -11,7 +11,7 @@ __Videos (english):__
 
 
 
-__Practice assignment:__ [./practice.ipynb](./practice.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2023/week08_rlhf/practice.ipynb)
+__Practice assignment:__ [./practice.ipynb](./practice.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall23/week11_rlhf/practice.ipynb)
 
 
 
