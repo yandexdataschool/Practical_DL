@@ -5,15 +5,18 @@
 
 ### Practice & homework
 
+The main assignment is implementing a variational autoencoder:
+- https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week09_generative/homework-vae.ipynb
 
-1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall22/week09_generative/simple_1d_gan_pytorch.ipynb)
-
-The homework consists of two parts:
-* autoencoders_{yourframework}.ipynb - train a deep autoencoder for human faces
-* adversarial_{yourframework}.ipynb - same, but this time you build a GAN
+There are also demos for using pre-trained diffusion, but they are not assignments - just demos. Here they are:
+- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
+- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb
 
 
 ## GAN materials
+
+1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall22/week09_generative/simple_1d_gan_pytorch.ipynb)
+
 * Pix2Pix online demo (conditional adversarial networks) - [pix2pix](https://affinelayer.com/pixsrv/)
 * Articles: [Original](https://arxiv.org/abs/1406.2661), [Energy-Based](https://arxiv.org/abs/1609.03126), [Least Squares](https://arxiv.org/abs/1611.04076), [Wasserstein](https://arxiv.org/abs/1701.07875), etc.
 * GANs with variational aftertaste - [alpha-GAN](https://arxiv.org/abs/1706.04987) (and others, just google)
