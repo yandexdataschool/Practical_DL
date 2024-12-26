@@ -6,11 +6,11 @@
 ### Practice & homework
 
 The main assignment is implementing a variational autoencoder:
-- https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week09_generative/homework-vae.ipynb
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week09_generative/homework-vae.ipynb)
 
 There are also demos for using pre-trained diffusion, but they are not assignments - just demos. Here they are:
-- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb
-- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb
+- Basics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+- Inpainting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb)
 
 
 ## GAN materials
