@@ -1,6 +1,7 @@
 
 ## Materials
 * Russian lectures:
+  * Our slides - https://disk.yandex.ru/i/quLvUMB98cWU7A
   * Lecture on basic neural networks (russian) - [video](https://yadi.sk/i/yyHZub6R3Ej5dV)
   * Backprop one formula at a time (russian) - [video](https://yadi.sk/i/0AuHgNsv3EHZhN)
 * English lectures:
