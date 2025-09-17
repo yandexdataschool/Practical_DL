@@ -1,7 +1,7 @@
 
 ## Materials
+* Our [slides](https://disk.yandex.ru/i/quLvUMB98cWU7A)
 * Russian lectures:
-  * Our slides - https://disk.yandex.ru/i/quLvUMB98cWU7A
   * Lecture on basic neural networks (russian) - [video](https://yadi.sk/i/yyHZub6R3Ej5dV)
   * Backprop one formula at a time (russian) - [video](https://yadi.sk/i/0AuHgNsv3EHZhN)
 * English lectures:
@@ -22,15 +22,15 @@
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week01_backprop/backprop.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week01_backprop/backprop.ipynb)
 
 
-As usual, go to the only notebook in this folder (`adaptive_sgd.ipynb`) and follow instructions from there. Alternatively, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week01_backprop/adaptive_sgd.ipynb)
+As usual, go to the only notebook in this folder (`adaptive_sgd.ipynb`) and follow instructions from there. Alternatively, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week01_backprop/adaptive_sgd.ipynb)
 
 
 Homework:
-- (5 pts) implement backpropagation in backprop.ipynb such that it works for any number of layers,
-- (5 pts) try several SGD modifications in adaptive_sgd.ipynb .
+- (5 pts) implement backpropagation in `backprop.ipynb` such that it works for any number of layers,
+- (5 pts) try several SGD modifications in `adaptive_sgd.ipynb` .
 
 If you want to practice more, here's a few things you could try for bonus points:
 - add better SGD or try extra "layers" in backprop.ipynb
@@ -39,5 +39,5 @@ If you want to practice more, here's a few things you could try for bonus points
 However, don't feel obligated to do so unless you want to - the course is calibrated to allow you to get any grade without bonus assignments.
 
 
-__Note__: Starting from the next seminar, assignments will require you to install a deep learning framework. Click [here](https://github.com/yandexdataschool/Practical_DL/issues/6) for details. You can also run everything in colab of course - it comes with pytorch pre-installed.
+__Note__: Starting from the next seminar, assignments will require you to install a deep learning framework (PyTorch by default). Click [here](https://github.com/yandexdataschool/Practical_DL/issues/6) for details. You can also run everything in colab of course - it comes with pytorch pre-installed.
 
