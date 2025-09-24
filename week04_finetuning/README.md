@@ -5,7 +5,7 @@ __[Slides]__ - [here](https://disk.yandex.ru/d/kqZODPyzcxPkeQ)
 - English: [lecture I](https://www.youtube.com/watch?v=GxZrEKZfW2o), [lecture II](https://www.youtube.com/watch?v=pA4BsUK3oP4)
 
 ### More materials:
-- [`segment everything`](https://github.com/facebookresearch/segment-anything) - a powerful pre-trained model for segmentation.
+- [`segment-everything`](https://github.com/facebookresearch/segment-anything) - a powerful pre-trained model for segmentation.
 - [`rwightman/pytorch-image-models`](https://github.com/huggingface/pytorch-image-models) - a larger model zoo with more advanced models.
 - http://cs231n.github.io/transfer-learning/
 - [a few words on soft-targets](http://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html)
