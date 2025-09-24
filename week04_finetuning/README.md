@@ -16,7 +16,7 @@ __[Slides]__ - [here](https://disk.yandex.ru/d/kqZODPyzcxPkeQ)
 ### Practice
 
 The main notebook for this week is [`./seminar_pytorch.ipynb`](./seminar_pytorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week04_finetuning/seminar_pytorch.ipynb)
-Your in there is to fine-tune a pre-trained convolutuional network from the model zoo to classify cats versus dogs and then classify cat and dog breeds.
+Your goal there is to fine-tune a pre-trained convolutuional network from the model zoo to classify cats versus dogs and then classify cat and dog breeds.
 As usual, you can find more detailed instructions in the seminar notebook.
 
 
