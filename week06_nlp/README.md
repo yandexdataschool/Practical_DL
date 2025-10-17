@@ -11,7 +11,7 @@ __[slides](https://disk.yandex.ru/d/oYJ-rtgcAEPA2w)__
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week06_nlp/seminr.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week06_nlp/seminar.ipynb)
 
 Homework has two parts: `seminar.ipynb` and `homework.ipynb`.
 
