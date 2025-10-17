@@ -1,4 +1,4 @@
-__[slides](https://disk.yandex.ru/i/dY87GO59IS_POA)__
+__[slides](https://disk.yandex.ru/d/oYJ-rtgcAEPA2w)__
 
 ### Materials
 * Russian [lecture](https://yadi.sk/i/X6rS31O7r6Aco), [seminar](https://yadi.sk/i/LZppDeV9r8H4Q)
@@ -11,14 +11,12 @@ __[slides](https://disk.yandex.ru/i/dY87GO59IS_POA)__
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week06_nlp/seminar.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week06_nlp/seminr.ipynb)
 
-Homework has two parts: the first one (`part1_common.ipynb`) is non-DL-based, the second one (`part2_pytorch.ipynb`) uses neural nets and PyTorch.
+Homework has two parts: `seminar.ipynb` and `homework.ipynb`.
 
 
 __Other materials__
-
-There are versions in theano and tensorflow if you're interested. If you have no strong preferences, __we recommend PyTorch__.
 
 You can also find under `1d_conv_tasks` the following alternative assiments in theano:
 * 1d convolutions for prohibited content filtering
