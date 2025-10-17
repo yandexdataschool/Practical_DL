@@ -16,6 +16,8 @@ Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.s
 
 This week's practice consists of two parts: `./seminar.ipynb` (3 points) and `./homework.ipynb` (7 points).
 
+**We recommend using GPU for `./homework.ipynb`**. The seminar part can run without GPU just fine.
+
 The latter has hardcore bonus assignments for implementing Attention for RNN manually and doing beam search - **these bonus assignments are optional** and a notch above our usual difficulty, proceed at your own risk.
 
 
