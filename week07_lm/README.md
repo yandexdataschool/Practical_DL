@@ -1,5 +1,5 @@
 ## Materials
-* [Slides](https://yadi.sk/i/Qjn4U0Np3UKL5f)
+* [**Main slides**](https://docs.google.com/presentation/d/1O21DxrTNs9Vv6y8EUaby7TBeEwruqKuZ/edit?usp=sharing&ouid=106459147193852180964&rtpof=true&sd=true)
 * Videos: choose one of "Language Models and RNN" and one of "Attnention"
 * **Language Models and RNN**
   * (russian) Our [lecture](https://yadi.sk/i/XHmT5hO53GcCKV), [seminar](https://yadi.sk/i/19twHESN3GcGKQ)
