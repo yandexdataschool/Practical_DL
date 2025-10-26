@@ -11,7 +11,7 @@ __[slides](https://disk.yandex.ru/i/dY87GO59IS_POA)__
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week06_nlp/seminar.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week06_nlp/seminar.ipynb)
 
 Homework has two parts: the first one (`part1_common.ipynb`) is non-DL-based, the second one (`part2_pytorch.ipynb`) uses neural nets and PyTorch.
 
