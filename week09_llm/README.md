@@ -1,7 +1,7 @@
 ### Large language models
 
 
-- Slides: [lecture_llm.pdf](./lecture_llm.pdf)
+- Slides: https://disk.yandex.ru/i/0B16XG64EXE2PA
 - Practice session: [practice_prompting.ipynb](./practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week09_llm/practice_prompting.ipynb)
 - Video (in russian): [lecture](https://disk.yandex.ru/i/YCRr1gRuzXpZJA), [practice](https://disk.yandex.ru/i/1HaYtOxWZlHB5g)
 
