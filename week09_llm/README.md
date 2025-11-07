@@ -8,7 +8,7 @@
 
 ### Read more
 
-* Slides **TODO** contain many links for further reading
+* Slides (above) contain many links for further reading
 * How post-training quantization works: https://arxiv.org/abs/2208.07339 
 * An overview of running large models: https://huggingface.co/docs/accelerate/package_reference/big_modeling 
 * A general library for different adapter types: https://adapterhub.ml/
