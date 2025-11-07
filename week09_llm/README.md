@@ -2,8 +2,8 @@
 
 
 - Slides: https://disk.yandex.ru/i/0B16XG64EXE2PA
-- Practice session: [practice_prompting.ipynb](./practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week09_llm/practice_prompting.ipynb)
-- **Practice part 2 TBU soon!**
+- Practice session: [practice_prompting.ipynb](./practice_prompting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week09_llm/practice_prompting.ipynb)
+- Additional homework notebook: [practice_peft.ipynb](./practice_peft.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week09_llm/practice_peft.ipynb)
 
 
 __Videos (russian):__ 
