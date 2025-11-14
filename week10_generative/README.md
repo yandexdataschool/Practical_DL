@@ -6,16 +6,12 @@
 ### Practice & homework
 
 The main assignment is implementing a variational autoencoder:
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall24/week09_generative/homework-vae.ipynb)
-
-There are also demos for using pre-trained diffusion, but they are not assignments - just demos. Here they are:
-- Basics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
-- Inpainting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week10_generative/homework-vae.ipynb)
 
 
 ## GAN materials
 
-1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall22/week09_generative/simple_1d_gan_pytorch.ipynb)
+1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week10_generative/simple_1d_gan_pytorch.ipynb)
 
 * Pix2Pix online demo (conditional adversarial networks) - [pix2pix](https://affinelayer.com/pixsrv/)
 * Articles: [Original](https://arxiv.org/abs/1406.2661), [Energy-Based](https://arxiv.org/abs/1609.03126), [Least Squares](https://arxiv.org/abs/1611.04076), [Wasserstein](https://arxiv.org/abs/1701.07875), etc.
