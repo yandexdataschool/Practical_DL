@@ -8,6 +8,19 @@
 The main assignment is implementing a variational autoencoder:
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week10_generative/homework-vae.ipynb)
 
+## On Gumbel-Softmax
+
+Minimal gumbel-softmax notebook from the '25 class - [click here](https://colab.research.google.com/drive/16QeXwIEgYohju7lkJs55tqRhlD6wEGRO?usp=sharing
+).
+
+In-depth blog post from 2016 - https://blog.evjang.com/2016/11/tutorial-categorical-variational.html
+
+Proof for why gumbel-max trick matches softmax probabilities
+https://lips.cs.princeton.edu/the-gumbel-max-trick-for-discrete-distributions/
+
+## Mentioned open-source autoregressive models over VAE
+
+https://github.com/yandex-research/switti/blob/master/inference_example.ipynb
 
 ## GAN materials
 
