@@ -22,7 +22,7 @@ The goal is to fine-tune Stable Diffusion (or a similar) open-source model to ge
 
 The main notebook for this assignment is DreamBooth - a technique for making diffusers learn specific:
 
-- [DreamBooth demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb)
+- [DreamBooth starter notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb) (recommended)
 - [optionally, instead of the previous one] train a larger model with LoRA [using this notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/SDXL_DreamBooth_LoRA_.ipynb).
 - This is based on https://dreambooth.github.io . You may use other open-source implementations of DreamBooth. Proprietary models are fine for comparison, but at least some of the images you generated should use open-source models.
 
