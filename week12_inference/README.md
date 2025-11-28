@@ -1,7 +1,12 @@
+* Slides (pdf): [click here](https://disk.yandex.ru/i/0CUvXLuqmLd2_w)
 * Russian materials: [lecture](https://disk.yandex.ru/i/ph1wAYngwtKaOA), [hw overview](https://disk.yandex.ru/i/ALt5fFURfhdl7A)
 * English materials: [LLM efficiency overview](https://www.youtube.com/watch?v=jbHgzU4r7yU) | [LLM speculative decoding](https://www.youtube.com/watch?v=hm7VEgxhOvk)
 
-**PRACTICE TBU!** 
+# Practice
+
+[`./practice.ipynb`] : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week12_inference/practice.ipynb)
+
+Note to HSE students: this week's assignment is more advanced (read "harder") than usual in terms of the engineering required. Note that you don't have to pass every assignment as long as your point total is enough for the grade.
 
 # Extra materials:
 
