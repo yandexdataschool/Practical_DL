@@ -4,7 +4,7 @@
 
 # Practice
 
-[`./practice.ipynb`] : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week12_inference/practice.ipynb)
+[`./practice.ipynb`](./practice.ipynb) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week12_inference/practice.ipynb)
 
 Note to HSE students: this week's assignment is more advanced (read "harder") than usual in terms of the engineering required. Note that you don't have to pass every assignment as long as your point total is enough for the grade.
 
