@@ -1,6 +1,6 @@
 ## Materials (based on [`practical_rl` course](https://github.com/yandexdataschool/Practical_RL))
 
-* [Slides](https://disk.yandex.ru/i/64ao19xI77rsNw)
+* [Slides](https://disk.yandex.ru/d/GG-GvN-13UhzFw)
 * Video lecture by D. Silver - https://www.youtube.com/watch?v=KHZVXao4qXs
 * Our [lecture](https://yadi.sk/i/I3M09HKQ3GKBiP), [seminar](https://yadi.sk/i/8f9NX_E73GKBkT)
 * Alternative lecture by J. Schulman part 1 - https://www.youtube.com/watch?v=BB-BhTn6DCM
