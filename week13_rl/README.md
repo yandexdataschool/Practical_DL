@@ -8,7 +8,7 @@
 
 ## Practice
 
-__Part 0 (not graded)__ - intro to gym(nasium) interface - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall23/week10_rl/intro.ipynb)
+__Part 0 (not graded)__ - intro to gym(nasium) interface - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week13_rl/intro.ipynb)
 
 __part 1 (5 points)__ - implement REINFORCE with a neural network agent - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week13_rl/reinforce_pytorch.ipynb)
 
@@ -16,11 +16,11 @@ __part 2 (5-10 points)__ - optional advanced homework: implement either A2C **OR
 - A2C aka Advantage Actor Critic (5 points) [`a2c-optional.ipynb`](./a2c-optional.ipynb).
 - PPO aka Proximal Policy Optimization (10 points) [`ppo.ipynb`](./ppo.ipynb)
 
-If you chose to do PPO, you don't need to submit A2C and it will award no extra points since PPO expands A2C. So either do reinforce -> a2c for up to 10 points OR reinforce -> ppo for up to 15.
+If you chose to do PPO, you don't need to submit A2C and it will award no extra points since PPO expands A2C. So either do (reinforce -> a2c) for up to 10 points OR (reinforce -> ppo) for up to 15 points.
 
 If you choose PPO, we recommend additional materials; pick one of:
-- Text materials: https://spinningup.openai.com/en/latest/algorithms/ppo.html (english)
-- Our videos: [lecture](https://yadi.sk/i/c7GR1kAAJc00Og), [seminar(PyTorch)](https://yadi.sk/i/OGZJJjkQH_7h5g) (russian)
+- Text materials (english): https://spinningup.openai.com/en/latest/algorithms/ppo.html (english)
+- Our videos (russian): [lecture](https://yadi.sk/i/c7GR1kAAJc00Og), [seminar(PyTorch)](https://yadi.sk/i/OGZJJjkQH_7h5g)
 
 ## More materials
 * A full-term course on reinforcement learning - [practical_rl](https://github.com/yandexdataschool/practical_rl)
