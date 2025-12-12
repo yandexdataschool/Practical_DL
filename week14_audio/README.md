@@ -4,7 +4,19 @@
  * Alternative lectures (english):
      * historical overview of ASR - [video](https://www.youtube.com/watch?v=q67z7PTGRi8)
      * end-to-end neural ASR - [video](https://www.youtube.com/watch?v=3MjIkWxXigM)
- 
+
+
+### Practice
+
+As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week14_audio/practice.ipynb).
+
+
+__OPTIONAL:__ if you wanna try speech synthesis, 'ere you go: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week14_audio/optional_tts.ipynb)
+
+
+### Bonus: multimodality 
+* Vision+LLM videos (russian) - [lecture](https://disk.yandex.ru/d/-M7aSQ1iAXDUgQ) [practice](https://disk.yandex.ru/d/ZQUDQDp9E-z5gQ).
+* Practice (not for points) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week14_audio/vlm_practice_qwen25omni.ipynb)
  
 ### Further reading
 * Interactive explanation of CTC loss - [blog post](https://www.youtube.com/watch?v=3MjIkWxXigM)
@@ -14,14 +26,3 @@
     * For online ASR, see lecture (e.g. [Jasper](https://arxiv.org/pdf/1904.03288), but seek newer models)
 * **"I wanna run speech synthesis in production**
     * [TortoiseTTS](https://github.com/neonbjb/tortoise-tts) is a good start - has pre-trained models and the training code.
- 
-### Practice
-
-As usual, open `practice.ipynb` and follow insructions from there. Or use colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall24/week10_speech/practice.ipynb).
-
-
-__OPTIONAL:__ if you wanna try speech synthesis, 'ere you go:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall22/week10_speech/optional_tts.ipynb)
-
-
