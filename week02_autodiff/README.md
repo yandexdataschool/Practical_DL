@@ -28,5 +28,5 @@
 
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there. You will also need to pass `homework_pytorch.ipynb` for full score.
 
-__Alternative (TensorFlow):__ a similar tutorial for tensorflow is provided in `tensorflow.ipynb`. From now on, you *can* submit assignments in any framework - but you will have to do some extra engineering in that case. However, unless you're already profficient with PyTorch, we recommend you stick to it.
+__Alternative (TensorFlow):__ a similar tutorial for tensorflow is provided in `tensorflow.ipynb`. From now on, you *can* submit assignments in any framework - but you will have to do some extra engineering in that case. However, unless you're already proficient with PyTorch, we recommend you stick to it.
 
