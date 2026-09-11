@@ -22,10 +22,10 @@
 
 ## Practice
 
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week01_backprop/backprop.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week01_backprop/backprop.ipynb)
 
 
-As usual, go to the only notebook in this folder (`adaptive_sgd.ipynb`) and follow instructions from there. Alternatively, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week01_backprop/adaptive_sgd.ipynb)
+As usual, go to the only notebook in this folder (`adaptive_sgd.ipynb`) and follow instructions from there. Alternatively, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week01_backprop/adaptive_sgd.ipynb)
 
 
 Homework:
