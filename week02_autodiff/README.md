@@ -13,6 +13,7 @@
   * [Tensorflow tutorial](https://www.youtube.com/watch?v=FQ660T4uu7k) (english only for now. Links are welcome)
 
 ## More on DL frameworks
+  - https://github.com/jax-ml/jax - more recent dynamic graphs framework
   - A lecture on nonlinearities, intializations and other tricks in deep learning (karpathy) - [video](https://www.youtube.com/watch?v=GUtlrDbHhJM)
   - A lecture on activations, recap of adaptive SGD and dropout (karpathy) - [video](https://www.youtube.com/watch?v=KaR4lIdI1MQ)
   - [a deep learning neophite cheat sheet](http://www.kdnuggets.com/2016/03/must-know-tips-deep-learning-part-1.html)
@@ -23,7 +24,7 @@
 
 ## Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week02_autodiff/seminar_pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week02_autodiff/seminar_pytorch.ipynb)
 
 As usual, go to `seminar_pytorch.ipynb` and follow instructions from there. You will also need to pass `homework_pytorch.ipynb` for full score.
 
