@@ -5,6 +5,8 @@ Practice:
 - this week's `practice.ipynb` notebook is best done locally (as in, not in colab)
 - in a pinch: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week05_interpretability/practice.ipynb)
 
+
+Optional, not for points
 - style transfer - __[colab](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week05_interpretability/bonus_style_transfer/style_transfer_pytorch.ipynb)__
 
 
