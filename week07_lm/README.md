@@ -12,7 +12,7 @@
 
 # Practice
 
-Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week07_lm/seminar.ipynb)
+Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week07_lm/seminar.ipynb)
 
 This week's practice consists of two parts: `./seminar.ipynb` (3 points) and `./homework.ipynb` (7 points).
 
