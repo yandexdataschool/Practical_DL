@@ -8,7 +8,7 @@
 ### Practice
 This time there are two parts:
 
-1. seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall25/week08_transformer/seminar.ipynb)
+1. seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/practical_dl/blob/fall26/week08_transformer/seminar.ipynb)
 
 2. homework: see `homework.ipynb`
 
