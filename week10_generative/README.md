@@ -7,7 +7,7 @@
 ### Practice & homework
 
 The main assignment is implementing a variational autoencoder:
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week10_generative/homework-vae.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week10_generative/homework-vae.ipynb)
 
 ## On Gumbel-Softmax
 
@@ -25,7 +25,7 @@ https://github.com/yandex-research/switti/blob/master/inference_example.ipynb
 
 ## GAN materials
 
-1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall25/week10_generative/simple_1d_gan_pytorch.ipynb)
+1d GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_DL/blob/fall26/week10_generative/simple_1d_gan_pytorch.ipynb)
 
 * Pix2Pix online demo (conditional adversarial networks) - [pix2pix](https://affinelayer.com/pixsrv/)
 * Articles: [Original](https://arxiv.org/abs/1406.2661), [Energy-Based](https://arxiv.org/abs/1609.03126), [Least Squares](https://arxiv.org/abs/1611.04076), [Wasserstein](https://arxiv.org/abs/1701.07875), etc.
